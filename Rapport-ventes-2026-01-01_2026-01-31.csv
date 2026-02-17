@@ -1,0 +1,1016 @@
+Date,Type,Réf. transaction,Moyen de paiement,Quantité,Description,Devise,Prix avant réduction,Réduction,Prix (TTC),Prix (HT),TVA,Taux de TVA,Compte
+2 janv. 2026 11:37,Vente,TAAAY9DSEHP,Mastercard - Débit,3,The vert pêche - Meneau Standard,EUR,12.00,0.00,12.00,10.91,1.09,10 %,admin@pingpang.paris
+2 janv. 2026 12:11,Vente,TAAAY9D3CBX,Espèces,1,Café Latte Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+2 janv. 2026 12:11,Vente,TAAAY9D3CBX,Espèces,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+2 janv. 2026 12:22,Vente,TAAAY9D63MP,Mastercard - Crédit,2,Cookie MATCHA,EUR,8.00,0.80,7.20,6.54,0.66,10 %,admin@pingpang.paris
+2 janv. 2026 12:22,Vente,TAAAY9D63MP,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+2 janv. 2026 12:22,Vente,TAAAY9D63MP,Mastercard - Crédit,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+2 janv. 2026 12:26,Vente,TAAAY9D747M,Visa - Débit,1,Raquette x PPP - Hoodie Gris M,EUR,90.00,0.00,90.00,75.00,15.00,20 %,admin@pingpang.paris
+2 janv. 2026 15:05,Vente,TAAAY9FT2LY,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+2 janv. 2026 15:05,Vente,TAAAY9FT2LY,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 15:38,Vente,TAAAY9F7Q6P,Visa - Crédit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+2 janv. 2026 15:38,Vente,TAAAY9F7Q6P,Visa - Crédit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+2 janv. 2026 15:38,Vente,TAAAY9F7Q6P,Visa - Crédit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+2 janv. 2026 16:08,Vente,TAAAY9GHN2D,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+2 janv. 2026 16:27,Vente,TAAAY9GP6HN,Mastercard - Crédit,2,Cidre Fils de pomme,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+2 janv. 2026 16:34,Vente,TAAAY9GRY7X,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+2 janv. 2026 16:42,Vente,TAAAY9GUHL3,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+2 janv. 2026 16:48,Vente,TAAAY9GXAAQ,Espèces,3,Club Mate Cola ⚫️ Standard,EUR,15.00,0.00,15.00,13.64,1.36,10 %,admin@pingpang.paris
+2 janv. 2026 16:49,Vente,TAAAY9GXG3D,Mastercard - Débit,4,Cookie cloud 🍪,EUR,24.00,0.00,24.00,20.00,4.00,20 %,admin@pingpang.paris
+2 janv. 2026 16:51,Vente,TAAAY9GX6DY,Mastercard - Débit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+2 janv. 2026 16:51,Vente,TAAAY9GX6DY,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+2 janv. 2026 17:01,Vente,TAAAY9G2T4Q,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+2 janv. 2026 17:06,Vente,TAAAY9G4DGN,Visa - Débit,2,Cookie cloud 🍪,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+2 janv. 2026 17:20,Vente,TAAAY9HADQQ,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+2 janv. 2026 17:48,Vente,TAAAY9HHXUL,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+2 janv. 2026 17:48,Vente,TAAAY9HHXUL,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 17:51,Vente,TAAAY9HKUGS,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+2 janv. 2026 17:57,Vente,TAAAY9HMLMF,Mastercard - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+2 janv. 2026 17:58,Vente,TAAAY9HMXQN,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 18:22,Vente,TAAAY9HUCCH,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+2 janv. 2026 18:23,Vente,TAAAY9HUKZX,Mastercard - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+2 janv. 2026 18:25,Vente,TAAAY9HU24Q,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 18:42,Vente,TAAAY9H2DLQ,Mastercard - Débit,2,Happy Hour,EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+2 janv. 2026 18:59,Vente,TAAAY9H7RRZ,Visa - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 18:59,Vente,TAAAY9H7RRZ,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+2 janv. 2026 18:59,Vente,TAAAY9H7RRZ,Visa - Débit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+2 janv. 2026 19:05,Vente,TAAAY9KAAKZ,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+2 janv. 2026 19:05,Vente,TAAAY9KAAKZ,Visa - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+2 janv. 2026 19:15,Vente,TAAAY9KCQ9N,Espèces,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+2 janv. 2026 19:52,Vente,TAAAY9KNT7L,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+2 janv. 2026 20:46,Vente,"TAAAY9K3ZPX, TAAAY9K33FF","Mastercard - Débit, Mastercard - Débit",1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+2 janv. 2026 20:52,Vente,TAAAY9K6EEL,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+2 janv. 2026 22:01,Vente,TAAAY9LMQHE,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+2 janv. 2026 22:04,Vente,TAAAY9LM6Z2,Espèces,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+2 janv. 2026 22:04,Vente,TAAAY9LM6Z2,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+2 janv. 2026 23:05,Vente,"TAAAY9LYYBQ, TAAAY9LY27U, TAAAY9LY7FG","Visa - Débit, Mastercard - Débit, Espèces",2,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+2 janv. 2026 23:05,Vente,"TAAAY9LYYBQ, TAAAY9LY27U, TAAAY9LY7FG","Visa - Débit, Mastercard - Débit, Espèces",1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+2 janv. 2026 23:05,Vente,"TAAAY9LYYBQ, TAAAY9LY27U, TAAAY9LY7FG","Visa - Débit, Mastercard - Débit, Espèces",1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+2 janv. 2026 23:39,Vente,TAAAY9L62B9,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+3 janv. 2026 11:02,Vente,TAAAY9NRUP9,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 11:02,Vente,TAAAY9NRUP9,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+3 janv. 2026 11:05,Vente,TAAAY9NSQ74,Visa - Débit,2,Americano  Standard,EUR,7.00,0.00,7.00,6.36,0.64,10 %,admin@pingpang.paris
+3 janv. 2026 11:05,Vente,TAAAY9NSQ74,Visa - Débit,1,ChariTea  Green,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 11:24,Vente,TAAAY9NYE4P,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+3 janv. 2026 11:24,Vente,TAAAY9NYE4P,Visa - Débit,1,Germany 🇩🇪 T-shirt XL,EUR,39.00,0.00,39.00,32.50,6.50,20 %,admin@pingpang.paris
+3 janv. 2026 11:24,Vente,TAAAY9NYE4P,Visa - Débit,1,Identité T-shirt Noir · M,EUR,50.00,0.00,50.00,41.67,8.33,20 %,admin@pingpang.paris
+3 janv. 2026 11:24,Vente,TAAAY9NYE4P,Visa - Débit,1,Sweden 🇸🇪 T-shirt XL,EUR,39.00,39.00,0.00,0.00,0.00,20 %,admin@pingpang.paris
+3 janv. 2026 11:42,Vente,TAAAY9N6HFS,Visa - Débit,1,Americano  Standard,EUR,3.50,0.00,3.50,3.18,0.32,10 %,admin@pingpang.paris
+3 janv. 2026 11:49,Vente,TAAAY9N9QV4,Visa - Crédit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+3 janv. 2026 11:51,Vente,TAAAY9PAA33,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+3 janv. 2026 12:13,Vente,TAAAY9PGXGB,Espèces,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 12:39,Vente,TAAAY9PR44D,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 13:21,Vente,TAAAY9QANC7,Visa - Crédit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 14:46,Vente,TAAAY9Q9F63,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+3 janv. 2026 14:46,Vente,TAAAY9Q9F63,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 15:09,Vente,TAAAY9RG2P9,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 15:09,Vente,TAAAY9RG2P9,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+3 janv. 2026 15:45,Vente,TAAAY9RXRCS,Visa - Débit,1,Americano  Standard,EUR,3.50,0.00,3.50,3.18,0.32,10 %,admin@pingpang.paris
+3 janv. 2026 15:45,Vente,TAAAY9RXRCS,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+3 janv. 2026 15:45,Vente,TAAAY9RXRCS,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+3 janv. 2026 15:54,Vente,TAAAY9R2VC4,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+3 janv. 2026 15:54,Vente,TAAAY9R2VC4,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+3 janv. 2026 16:03,Vente,TAAAY9R62DP,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+3 janv. 2026 16:03,Vente,TAAAY9R62DP,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+3 janv. 2026 16:45,Vente,TAAAY9SN2EK,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 17:08,Vente,TAAAY9SXPB6,Visa - Crédit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+3 janv. 2026 17:08,Vente,TAAAY9SXPB6,Visa - Crédit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+3 janv. 2026 18:18,Vente,TAAAY9TPNNN,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+3 janv. 2026 18:18,Vente,TAAAY9TPNNN,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+3 janv. 2026 18:18,Vente,TAAAY9TPNNN,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+3 janv. 2026 18:29,Vente,TAAAY9TSRUD,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+3 janv. 2026 18:56,Vente,TAAAY9T23SB,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 18:56,Vente,TAAAY9T23SB,Visa - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+3 janv. 2026 19:06,Vente,TAAAY9T6U96,Espèces,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+3 janv. 2026 19:34,Vente,TAAAY9UFG3B,Visa - Débit,1,ChariTea  Black,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 19:34,Vente,TAAAY9UFG3B,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+3 janv. 2026 19:34,Vente,TAAAY9UFG3B,Visa - Débit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+3 janv. 2026 19:36,Vente,TAAAY9UF2YR,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 19:45,Vente,TAAAY9UKDBV,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+3 janv. 2026 19:45,Vente,TAAAY9UKDBV,Visa - Débit,1,Violet Lemonade,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+3 janv. 2026 20:27,Vente,TAAAY9UV7XT,Visa - Débit,1,Montant personnalisé,EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 21:31,Vente,TAAAY9VFDSN,Visa - Débit,1,Iced Matcha latte,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+3 janv. 2026 21:31,Vente,TAAAY9VFDSN,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+3 janv. 2026 21:33,Vente,TAAAY9VFQFL,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+3 janv. 2026 22:38,Vente,TAAAY9VU43G,Visa - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+3 janv. 2026 22:51,Vente,TAAAY9VYFMD,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+4 janv. 2026 10:04,Vente,TAAAY9YMZY2,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,2.25,12.75,10.62,2.13,20 %,admin@pingpang.paris
+4 janv. 2026 10:12,Vente,TAAAY9YNPPF,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+4 janv. 2026 10:22,Vente,TAAAY9YPL6V,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+4 janv. 2026 10:22,Vente,TAAAY9YPL6V,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+4 janv. 2026 10:22,Vente,TAAAY9YPL6V,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+4 janv. 2026 10:54,Vente,TAAAY9YS7UB,Espèces,1,🥐 Sunday breakfast,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+4 janv. 2026 11:06,Vente,TAAAY9YUT62,Visa - Débit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+4 janv. 2026 11:06,Vente,TAAAY9YUT62,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+4 janv. 2026 11:44,Vente,TAAAY9Y32K7,Visa - Débit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+4 janv. 2026 11:44,Vente,TAAAY9Y32K7,Visa - Débit,2,Effect x Identité XMAS - noir M,EUR,100.00,0.00,100.00,83.33,16.67,20 %,admin@pingpang.paris
+4 janv. 2026 11:44,Vente,TAAAY9Y32K7,Visa - Débit,1,Effect x Identité XMAS - noir XS,EUR,50.00,50.00,0.00,0.00,0.00,20 %,admin@pingpang.paris
+4 janv. 2026 11:44,Vente,TAAAY9Y32K7,Visa - Débit,1,Japan 🇯🇵 T-shirt S,EUR,39.00,39.00,0.00,0.00,0.00,20 %,admin@pingpang.paris
+4 janv. 2026 12:24,Vente,TAAAY9ZDYS2,Espèces,1,🥐 Sunday breakfast,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+4 janv. 2026 13:48,Vente,TAAAY9Z2DUC,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+4 janv. 2026 13:48,Vente,TAAAY9Z2DUC,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+4 janv. 2026 13:50,Vente,TAAAY9Z2RMS,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+4 janv. 2026 14:03,Vente,TAAAY9Z6RBN,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 14:03,Vente,TAAAY9Z6RBN,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+4 janv. 2026 14:03,Vente,TAAAY9Z6RBN,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+4 janv. 2026 14:36,Vente,TAAAY92FKMU,Espèces,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 14:36,Vente,TAAAY92FKMU,Espèces,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+4 janv. 2026 14:36,Vente,TAAAY92FKMU,Espèces,3,Chocolat chaud,EUR,15.00,0.00,15.00,13.64,1.36,10 %,admin@pingpang.paris
+4 janv. 2026 14:48,Vente,TAAAY92KE9E,Espèces,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 14:48,Vente,TAAAY92KE9E,Espèces,1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 15:31,Vente,TAAAY92XAD4,Visa - Crédit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+4 janv. 2026 15:31,Vente,TAAAY92XAD4,Visa - Crédit,1,Cookie CHOCOLAT,EUR,3.60,0.00,3.60,3.27,0.33,10 %,admin@pingpang.paris
+4 janv. 2026 15:31,Vente,TAAAY92XAD4,Visa - Crédit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+4 janv. 2026 15:31,Vente,TAAAY92XAD4,Visa - Crédit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+4 janv. 2026 15:42,Vente,TAAAY92Z7DZ,Espèces,1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 16:15,Vente,TAAAY93CCPA,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+4 janv. 2026 16:34,Vente,TAAAY93GVBP,Mastercard - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+4 janv. 2026 16:34,Vente,TAAAY93GVBP,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+4 janv. 2026 16:41,Vente,TAAAY93KF4Q,Espèces,1,🔄 Replay,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+4 janv. 2026 17:19,Vente,TAAAY93TYK4,Visa - Crédit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+4 janv. 2026 17:20,Vente,TAAAY93T4S3,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+4 janv. 2026 17:42,Vente,TAAAY93ZQEQ,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+4 janv. 2026 17:43,Vente,TAAAY93ZSLN,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+4 janv. 2026 17:43,Vente,TAAAY93ZU6F,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+4 janv. 2026 17:47,Vente,TAAAY932MV2,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+4 janv. 2026 17:47,Vente,TAAAY932MV2,Espèces,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+4 janv. 2026 18:16,Vente,TAAAY94AFNV,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+4 janv. 2026 18:16,Vente,TAAAY94AFNV,Espèces,1,Play Peak 30 min Gold,EUR,15.00,1.50,13.50,11.25,2.25,20 %,admin@pingpang.paris
+4 janv. 2026 18:26,Vente,TAAAY94CBTL,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+4 janv. 2026 18:30,Vente,TAAAY94CVMB,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+4 janv. 2026 19:10,Vente,TAAAY94MCMZ,Mastercard - Crédit,2,Chocolat chaud,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+4 janv. 2026 19:10,Vente,TAAAY94MCMZ,Mastercard - Crédit,3,Thé 🍵 Standard,EUR,13.50,0.00,13.50,12.27,1.23,10 %,admin@pingpang.paris
+4 janv. 2026 20:16,Vente,TAAAY94ZFM6,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+4 janv. 2026 20:40,Vente,TAAAY9444YF,Espèces,1,30 min Play Peak Gold,EUR,7.50,0.00,7.50,6.25,1.25,20 %,admin@pingpang.paris
+5 janv. 2026 13:57,Vente,TAAAZAARTRL,Espèces,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+5 janv. 2026 14:03,Vente,TAAAZAATD7P,Espèces,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+5 janv. 2026 15:02,Vente,TAAAZABCUEQ,Mastercard - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+5 janv. 2026 15:02,Vente,TAAAZABCUEQ,Mastercard - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+5 janv. 2026 17:08,Vente,TAAAZACFRA4,Espèces,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+5 janv. 2026 17:08,Vente,TAAAZACFRA4,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+5 janv. 2026 17:10,Vente,TAAAZACF7CB,Mastercard - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+5 janv. 2026 17:10,Vente,TAAAZACF7CB,Mastercard - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+5 janv. 2026 17:10,Vente,TAAAZACF7CB,Mastercard - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+5 janv. 2026 17:10,Vente,TAAAZACF7CB,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+5 janv. 2026 17:46,Vente,TAAAZACSBZK,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+5 janv. 2026 18:02,Vente,TAAAZACXBSR,Mastercard - Débit,2,Évian Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+5 janv. 2026 19:01,Vente,TAAAZADETH4,Visa - Débit,1,Chaussettes Ping Pang ACC Blanc · 43-46,EUR,20.00,10.00,10.00,8.34,1.66,20 %,admin@pingpang.paris
+5 janv. 2026 19:01,Vente,TAAAZADETH4,Visa - Débit,1,Chaussettes raquette ACC Blanc · 35-38,EUR,20.00,10.00,10.00,8.34,1.66,20 %,admin@pingpang.paris
+5 janv. 2026 19:26,Vente,TAAAZADMAY2,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+5 janv. 2026 20:55,Vente,TAAAZAD79GL,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+5 janv. 2026 20:55,Vente,TAAAZAD79GL,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+5 janv. 2026 22:19,Vente,TAAAZAEPDAR,Mastercard - Crédit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+5 janv. 2026 22:19,Vente,TAAAZAEPDAR,Mastercard - Crédit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,1.50,1.50,1.37,0.13,10 %,admin@pingpang.paris
+6 janv. 2026 13:49,Vente,TAAAZAHTFQK,Mastercard - Débit,1,Iced americano,EUR,4.50,2.25,2.25,1.87,0.38,20 %,admin@pingpang.paris
+6 janv. 2026 14:41,Vente,TAAAZAKBL6R,Espèces,2,Double Espresso ☕️ Standard,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+6 janv. 2026 14:47,Vente,TAAAZAKDAQA,Espèces,2,Raquette Lebrun Alexis,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+6 janv. 2026 15:11,Vente,TAAAZAKKYVB,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+6 janv. 2026 15:11,Vente,TAAAZAKKYVB,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+6 janv. 2026 15:12,Vente,TAAAZAKK7FD,Mastercard - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+6 janv. 2026 15:28,Vente,TAAAZAKP3QF,Espèces,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+6 janv. 2026 15:28,Vente,TAAAZAKP3QF,Espèces,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+6 janv. 2026 17:11,Vente,TAAAZALLT7H,Visa - Débit,1,Happy Hour,EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+6 janv. 2026 17:11,Vente,TAAAZALLT7H,Visa - Débit,1,Le coup du roi,EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+6 janv. 2026 18:37,Vente,TAAAZAMA2XY,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+6 janv. 2026 18:39,Vente,TAAAZAMBE7Q,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+6 janv. 2026 21:38,Vente,"TAAAZANG23Z, TAAAZANG4H2, TAAAZANG79E","Visa - Débit, Visa - Débit, Visa - Crédit",4,Corona 50cl Corona,EUR,32.00,0.00,32.00,26.67,5.33,20 %,admin@pingpang.paris
+7 janv. 2026 11:12,Vente,TAAAZAQMZM2,Mastercard - Crédit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+7 janv. 2026 13:45,Vente,TAAAZAR99C7,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+7 janv. 2026 13:45,Vente,TAAAZAR99C7,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+7 janv. 2026 13:45,Vente,TAAAZAR99C7,Visa - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+7 janv. 2026 15:36,Vente,TAAAZATB6MN,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+7 janv. 2026 15:53,Vente,TAAAZATGG9X,Visa - Débit,1,Iced Latte,EUR,5.50,0.00,5.50,4.58,0.92,20 %,admin@pingpang.paris
+7 janv. 2026 15:53,Vente,TAAAZATGG9X,Visa - Débit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+7 janv. 2026 15:53,Vente,TAAAZATGG9X,Visa - Débit,1,Sirop,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+7 janv. 2026 15:59,Vente,TAAAZATH6GY,American Express - Crédit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+7 janv. 2026 15:59,Vente,TAAAZATH6GY,American Express - Crédit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 15:59,Vente,TAAAZATH6GY,American Express - Crédit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+7 janv. 2026 16:30,Vente,TAAAZATTK3C,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+7 janv. 2026 16:30,Vente,TAAAZATTK3C,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+7 janv. 2026 16:58,Vente,TAAAZAT4DQK,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+7 janv. 2026 16:59,Vente,TAAAZAT4HZR,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+7 janv. 2026 18:42,Vente,TAAAZAU3YNL,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+7 janv. 2026 18:42,Vente,TAAAZAU3Z6C,Espèces,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+7 janv. 2026 18:43,Vente,TAAAZAU374H,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 18:52,Vente,TAAAZAU7LAX,Mastercard - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 18:53,Vente,TAAAZAU7RL3,Espèces,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+7 janv. 2026 19:07,Vente,TAAAZAVCALX,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+7 janv. 2026 19:07,Vente,TAAAZAVCALX,Espèces,1,Happy Hour,EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+7 janv. 2026 19:11,Vente,TAAAZAVC6F3,Mastercard - Crédit,1,Cookie cloud 🍪,EUR,6.00,1.80,4.20,3.50,0.70,20 %,admin@pingpang.paris
+7 janv. 2026 19:27,Vente,TAAAZAVGX2B,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 19:28,Vente,TAAAZAVG7DM,Visa - Crédit,3,Corona 50cl Corona,EUR,24.00,6.00,18.00,15.00,3.00,20 %,admin@pingpang.paris
+7 janv. 2026 19:29,Vente,TAAAZAVHCFX,Espèces,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+7 janv. 2026 19:34,Vente,TAAAZAVKD2M,Mastercard - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 20:11,Vente,TAAAZAVTD63,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+7 janv. 2026 21:03,Vente,TAAAZAV7AXN,Espèces,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+7 janv. 2026 21:03,Vente,TAAAZAV7AXN,Espèces,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+7 janv. 2026 21:51,Vente,TAAAZAXGA3H,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+8 janv. 2026 12:07,Vente,TAAAZA2AYVY,Visa - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+8 janv. 2026 12:29,Vente,TAAAZA2KPKD,Visa - Crédit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+8 janv. 2026 12:31,Vente,TAAAZA2LAUK,Visa - Débit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+8 janv. 2026 12:31,Vente,TAAAZA2LAUK,Visa - Débit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+8 janv. 2026 13:06,Vente,TAAAZA2YY7H,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+8 janv. 2026 13:06,Vente,TAAAZA2YY7H,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+8 janv. 2026 15:57,Vente,TAAAZA4SL3V,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+8 janv. 2026 16:02,Vente,TAAAZA4T4BH,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+8 janv. 2026 16:17,Vente,TAAAZA4Y94T,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+8 janv. 2026 16:17,Vente,TAAAZA4Y94T,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+8 janv. 2026 16:34,Vente,TAAAZA469EB,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+8 janv. 2026 17:03,Vente,TAAAZA6GKK2,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+8 janv. 2026 17:03,Vente,TAAAZA6GKK2,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+8 janv. 2026 18:55,Vente,TAAAZA7MFMD,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+8 janv. 2026 19:47,Vente,TAAAZA73GMT,Visa - Débit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+8 janv. 2026 20:23,Vente,TAAAZA9DD4P,Espèces,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+8 janv. 2026 21:19,Vente,TAAAZA9RCUR,Mastercard - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+8 janv. 2026 21:19,Vente,TAAAZA9RCUR,Mastercard - Débit,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+8 janv. 2026 21:37,Vente,TAAAZA9UMAF,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+8 janv. 2026 21:52,Vente,TAAAZA9YATB,Espèces,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+8 janv. 2026 22:19,Vente,TAAAZA94MZS,Espèces,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+8 janv. 2026 22:55,Vente,TAAAZBAB3ZV,Espèces,1,Le coup du roi Kevin Ben David,EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+8 janv. 2026 23:01,Vente,TAAAZBAC3DS,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,1.60,14.40,12.00,2.40,20 %,admin@pingpang.paris
+9 janv. 2026 11:09,Vente,TAAAZBCBXLX,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 11:22,Vente,TAAAZBCFKE6,Visa - Débit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+9 janv. 2026 11:22,Vente,TAAAZBCFKE6,Visa - Débit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+9 janv. 2026 11:53,Vente,TAAAZBCRQDH,Espèces,1,Café Latte Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+9 janv. 2026 11:53,Vente,TAAAZBCRQDH,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.38,3.42,3.10,0.32,10 %,admin@pingpang.paris
+9 janv. 2026 11:53,Vente,TAAAZBCRQDH,Espèces,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+9 janv. 2026 11:53,Vente,TAAAZBCRQDH,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+9 janv. 2026 12:02,Vente,TAAAZBCUK6T,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 12:50,Vente,TAAAZBDF44K,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 12:50,Vente,TAAAZBDF44K,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+9 janv. 2026 14:41,Vente,TAAAZBETR2L,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+9 janv. 2026 14:41,Vente,TAAAZBETR2L,Espèces,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 15:35,Vente,TAAAZBFFDR4,Mastercard - Crédit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 17:40,Vente,TAAAZBGTSUV,Espèces,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+9 janv. 2026 17:47,Vente,TAAAZBGVVBU,Mastercard - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+9 janv. 2026 19:11,Vente,TAAAZBHT2YA,Mastercard - Débit,2,Banane bread,EUR,9.80,0.00,9.80,8.17,1.63,20 %,admin@pingpang.paris
+9 janv. 2026 19:13,Vente,TAAAZBHULMX,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+9 janv. 2026 20:55,Vente,TAAAZBKU7N3,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 00:05,Vente,"TAAAZBMDS6U, TAAAZBMDUGR, TAAAZBMDVCG, TAAAZBMDV94, TAAAZBMDYZS","Visa - Crédit, Visa - Débit, Mastercard - Débit, Visa - Débit, Visa - Débit",2,Play Peak Play One (Peak),EUR,60.00,0.00,60.00,50.00,10.00,20 %,admin@pingpang.paris
+10 janv. 2026 12:41,Vente,TAAAZBQSAYB,Visa - Débit,2,Play Peak Play One (Peak),EUR,60.00,0.00,60.00,50.00,10.00,20 %,admin@pingpang.paris
+10 janv. 2026 13:04,Vente,TAAAZBQ37TU,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 13:04,Vente,TAAAZBQ37TU,Visa - Débit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+10 janv. 2026 13:04,Vente,TAAAZBQ37TU,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 13:16,Vente,TAAAZBRATTH,Visa - Débit,1,Chaussettes raquette ACC Blanc · 39-42,EUR,20.00,2.00,18.00,15.00,3.00,20 %,admin@pingpang.paris
+10 janv. 2026 14:25,Vente,TAAAZBR7RUP,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+10 janv. 2026 14:38,Vente,TAAAZBSDMQ2,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 14:38,Vente,TAAAZBSDMQ2,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+10 janv. 2026 14:46,Vente,TAAAZBSGM3G,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 14:46,Vente,TAAAZBSGM3G,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+10 janv. 2026 15:25,Vente,TAAAZBSZ9KD,Mastercard - Débit,1,Play tarif réduit Peak Half Hour,EUR,13.00,0.00,13.00,11.82,1.18,10 %,admin@pingpang.paris
+10 janv. 2026 15:37,Vente,TAAAZBS7YXX,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 15:47,Vente,TAAAZBTCR4X,Visa - Crédit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+10 janv. 2026 15:48,Vente,TAAAZBTDETV,Visa - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 15:48,Vente,TAAAZBTDETV,Visa - Débit,1,Iced Matcha latte,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+10 janv. 2026 15:48,Vente,TAAAZBTDETV,Visa - Débit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+10 janv. 2026 15:48,Vente,TAAAZBTDETV,Visa - Débit,1,Sirop,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+10 janv. 2026 16:10,Vente,TAAAZBTN37S,Mastercard - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 16:17,Vente,TAAAZBTRQAE,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 16:23,Vente,TAAAZBTT3ST,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 16:23,Vente,TAAAZBTT3ST,Mastercard - Débit,1,🤖Carobot Standard,EUR,15.00,0.00,15.00,15.00,0.00,0 %,admin@pingpang.paris
+10 janv. 2026 16:38,Vente,TAAAZBT2S9A,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 16:40,Vente,TAAAZBT3Q3V,Espèces,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 16:40,Vente,TAAAZBT3Q3V,Espèces,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+10 janv. 2026 17:01,Vente,TAAAZBUDHBE,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 17:09,Vente,TAAAZBUGL4F,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+10 janv. 2026 17:09,Vente,TAAAZBUGL4F,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 17:13,Vente,TAAAZBUHXM4,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,2.25,12.75,10.62,2.13,20 %,admin@pingpang.paris
+10 janv. 2026 17:44,Vente,TAAAZBUVFCZ,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 17:48,Vente,TAAAZBUXZS2,Espèces,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+10 janv. 2026 17:49,Vente,TAAAZBUYB2H,Mastercard - Débit,1,🥐 Sunday breakfast,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+10 janv. 2026 18:05,Vente,TAAAZBU6FU3,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 18:08,Vente,TAAAZBU7MM4,Mastercard - Débit,1,China 🇨🇳 T-shirt L,EUR,39.00,0.00,39.00,32.50,6.50,20 %,admin@pingpang.paris
+10 janv. 2026 18:32,Vente,TAAAZBVF2YH,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 18:32,Vente,TAAAZBVF6BA,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 19:23,Vente,TAAAZBVZ9LR,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 19:51,Vente,TAAAZBXC4DG,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+10 janv. 2026 19:51,Vente,TAAAZBXC4DG,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.45,2.55,2.32,0.23,10 %,admin@pingpang.paris
+10 janv. 2026 19:51,Vente,TAAAZBXC4DG,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,2.25,12.75,10.62,2.13,20 %,admin@pingpang.paris
+10 janv. 2026 20:06,Vente,TAAAZBXHNGB,Mastercard - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+10 janv. 2026 20:24,Vente,TAAAZBXP3GY,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 20:35,Vente,TAAAZBXS3KR,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+10 janv. 2026 21:54,Vente,TAAAZBYKYKP,Espèces,2,Cookie cloud 🍪,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+10 janv. 2026 21:54,Vente,TAAAZBYKYKP,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+10 janv. 2026 22:52,Vente,TAAAZBY2E2N,American Express - Crédit,3,Corona 50cl Corona,EUR,24.00,0.00,24.00,20.00,4.00,20 %,admin@pingpang.paris
+10 janv. 2026 23:42,Vente,TAAAZBZE9VL,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+11 janv. 2026 11:44,Vente,TAAAZB3PSP3,Visa - Débit,1,Croissant / pain au chocolat Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 11:49,Vente,TAAAZB3QV6H,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 11:49,Vente,TAAAZB3QV6H,Espèces,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+11 janv. 2026 11:50,Vente,TAAAZB3RALS,Mastercard - Crédit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+11 janv. 2026 11:50,Vente,TAAAZB3RALS,Mastercard - Crédit,1,Hojicha Latte,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+11 janv. 2026 11:50,Vente,TAAAZB3RALS,Mastercard - Crédit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+11 janv. 2026 11:58,Vente,TAAAZB3SYEB,Mastercard - Débit,1,Croissant / pain au chocolat Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 11:58,Vente,TAAAZB3SYEB,Mastercard - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+11 janv. 2026 12:14,Vente,TAAAZB3XRML,Visa - Débit,1,Croissant / pain au chocolat Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 12:14,Vente,TAAAZB3XRML,Visa - Débit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+11 janv. 2026 12:41,Vente,TAAAZB37DME,Visa - Crédit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+11 janv. 2026 12:41,Vente,TAAAZB37DME,Visa - Crédit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+11 janv. 2026 12:43,Vente,TAAAZB37RR4,American Express - Crédit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+11 janv. 2026 12:50,Vente,TAAAZB4AGQA,Visa - Débit,1,🥐 Sunday breakfast,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+11 janv. 2026 13:02,Vente,TAAAZB4DHLA,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+11 janv. 2026 13:02,Vente,TAAAZB4DHLA,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 13:39,Vente,TAAAZB4P2UV,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+11 janv. 2026 13:39,Vente,TAAAZB4P2UV,Visa - Débit,1,Croissant / pain au chocolat Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 13:41,Vente,TAAAZB4QEYM,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 14:36,Vente,TAAAZB49TGQ,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+11 janv. 2026 14:48,Vente,TAAAZB6C33U,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+11 janv. 2026 15:23,Vente,TAAAZB6PQSY,Visa - Débit,1,Audace Hoodie S,EUR,90.00,18.00,72.00,60.00,12.00,20 %,admin@pingpang.paris
+11 janv. 2026 15:25,Vente,TAAAZB6QBPQ,Espèces,1,RAP anniversaire,EUR,139.00,0.00,139.00,115.83,23.17,20 %,admin@pingpang.paris
+11 janv. 2026 15:25,Vente,TAAAZB6QEET,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+11 janv. 2026 15:37,Vente,TAAAZB6TLAE,Espèces,1,Breakfast x Identité XMAS T-Shirt - Blanc L,EUR,50.00,5.00,45.00,37.50,7.50,20 %,admin@pingpang.paris
+11 janv. 2026 15:37,Vente,TAAAZB6TLAE,Espèces,1,Chaussettes raquette ACC Blanc · 43-46,EUR,20.00,2.00,18.00,15.00,3.00,20 %,admin@pingpang.paris
+11 janv. 2026 15:37,Vente,TAAAZB6TLAE,Espèces,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+11 janv. 2026 16:36,Vente,TAAAZB7EB4M,Mastercard - Débit,2,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,10.00,0.00,10.00,10.00,0.00,,admin@pingpang.paris
+11 janv. 2026 16:45,Vente,TAAAZB7GFFA,American Express - Crédit,1,The vert pêche - Meneau Standard,EUR,4.00,0.00,4.00,4.00,0.00,,admin@pingpang.paris
+11 janv. 2026 17:40,Vente,TAAAZB7V6C9,Espèces,2,Matcha latte,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+11 janv. 2026 17:46,Vente,TAAAZB7YAC4,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+11 janv. 2026 18:28,Vente,TAAAZB9ANF3,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+11 janv. 2026 18:52,Vente,TAAAZB9E6VE,Visa - Débit,2,Cookie MATCHA,EUR,8.00,0.00,8.00,7.27,0.73,10 %,admin@pingpang.paris
+11 janv. 2026 22:29,Vente,TAAAZCALCYB,Espèces,1,30 min Gold,EUR,7.50,0.00,7.50,6.25,1.25,20 %,admin@pingpang.paris
+11 janv. 2026 22:29,Vente,TAAAZCALCYB,Espèces,3,Corona 25cl Corona,EUR,15.00,1.50,13.50,11.25,2.25,20 %,admin@pingpang.paris
+12 janv. 2026 09:49,Vente,TAAAZCBTHXD,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+12 janv. 2026 11:37,Vente,TAAAZCCLVBC,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+12 janv. 2026 11:37,Vente,TAAAZCCLVBC,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+12 janv. 2026 11:54,Vente,TAAAZCCQZPX,Visa - Débit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+12 janv. 2026 12:16,Vente,TAAAZCCYN3N,Visa - Débit,1,home@andrewgillies.eu,EUR,309.00,0.00,309.00,309.00,0.00,0 %,admin@pingpang.paris
+12 janv. 2026 13:08,Vente,TAAAZCDHN3K,Visa - Débit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+12 janv. 2026 13:27,Vente,TAAAZCDP2PC,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+12 janv. 2026 13:27,Vente,TAAAZCDP2PC,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+12 janv. 2026 14:17,Vente,TAAAZCD7HRZ,Visa - Débit,1,Play tarif réduit Off-peak Half hour,EUR,8.00,0.00,8.00,7.27,0.73,10 %,admin@pingpang.paris
+12 janv. 2026 15:19,Vente,TAAAZCEQNKS,Visa - Débit,1,Play tarif réduit Off-peak Half hour,EUR,8.00,0.00,8.00,7.27,0.73,10 %,admin@pingpang.paris
+12 janv. 2026 16:01,Vente,TAAAZCE3XMT,Visa - Débit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+12 janv. 2026 16:01,Vente,TAAAZCE3XMT,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+12 janv. 2026 16:31,Vente,TAAAZCFDD2L,Visa - Débit,2,Café allongé Standard,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+12 janv. 2026 16:31,Vente,TAAAZCFDD2L,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+12 janv. 2026 16:35,Vente,TAAAZCFEDQ4,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+12 janv. 2026 17:41,Vente,TAAAZCFY3K6,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+12 janv. 2026 17:47,Vente,TAAAZCF2GVC,Espèces,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+12 janv. 2026 17:47,Vente,TAAAZCF2GVC,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+12 janv. 2026 17:47,Vente,TAAAZCF2GVC,Espèces,1,Tournoi Ping Pang Challengers🏟️  1 place gold,EUR,22.00,0.00,22.00,18.33,3.67,20 %,admin@pingpang.paris
+12 janv. 2026 18:13,Vente,TAAAZCGAV24,Mastercard - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+12 janv. 2026 18:13,Vente,TAAAZCGA3E7,Espèces,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+12 janv. 2026 19:32,Vente,TAAAZCGVYUT,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+12 janv. 2026 19:32,Vente,TAAAZCGVYUT,Espèces,2,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+12 janv. 2026 22:30,Vente,TAAAZCHYEM4,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+12 janv. 2026 23:12,Vente,TAAAZCH6LHN,Espèces,2,Cidre Fils de pomme,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+13 janv. 2026 12:10,Vente,TAAAZCMLCB2,Visa - Débit,1,Iced Latte,EUR,5.50,0.00,5.50,4.58,0.92,20 %,admin@pingpang.paris
+13 janv. 2026 12:10,Vente,TAAAZCMLCB2,Visa - Débit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+13 janv. 2026 12:10,Vente,TAAAZCMLCB2,Visa - Débit,1,Sirop,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+13 janv. 2026 13:26,Vente,TAAAZCNHDUU,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+13 janv. 2026 13:27,Vente,TAAAZCNHKFY,Mastercard - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+13 janv. 2026 13:27,Vente,TAAAZCNHKFY,Mastercard - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+13 janv. 2026 13:47,Vente,TAAAZCNQ2KG,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+13 janv. 2026 14:22,Vente,TAAAZCN4NGB,Visa - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+13 janv. 2026 14:22,Vente,TAAAZCN4NGB,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+13 janv. 2026 15:12,Vente,TAAAZCPMG2T,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+13 janv. 2026 15:46,Vente,TAAAZCPXH3G,Visa - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+13 janv. 2026 15:46,Vente,TAAAZCPXH3G,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+13 janv. 2026 15:57,Vente,TAAAZCP2NPP,Visa - Débit,2,Double Espresso ☕️ Standard,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+13 janv. 2026 16:11,Vente,TAAAZCP7MY3,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+13 janv. 2026 16:11,Vente,TAAAZCP7MY3,Visa - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+13 janv. 2026 16:26,Vente,TAAAZCQCXLT,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+13 janv. 2026 16:49,Vente,TAAAZCQLKCT,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+13 janv. 2026 17:40,Vente,TAAAZCQ4DKN,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+13 janv. 2026 17:40,Vente,TAAAZCQ4DKN,Visa - Débit,2,Évian Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+13 janv. 2026 18:02,Vente,TAAAZCRCNUV,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+13 janv. 2026 18:20,Vente,TAAAZCRHQD7,Espèces,2,Cookie CHOCOLAT NOIX,EUR,7.60,3.80,3.80,3.46,0.34,10 %,admin@pingpang.paris
+13 janv. 2026 18:43,Vente,TAAAZCRQ79F,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+13 janv. 2026 18:45,Vente,TAAAZCRRPRM,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+13 janv. 2026 18:51,Vente,TAAAZCRTBXD,Visa - Crédit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+13 janv. 2026 18:56,Vente,TAAAZCRUNFP,Visa - Débit,1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+13 janv. 2026 19:13,Vente,TAAAZCRZ39U,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,1.00,4.00,3.34,0.66,20 %,admin@pingpang.paris
+13 janv. 2026 19:13,Vente,TAAAZCRZ6F4,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+13 janv. 2026 20:02,Vente,TAAAZCSFQA7,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+13 janv. 2026 20:17,Vente,TAAAZCSKZCG,Mastercard - Débit,2,Corona 50cl Corona,EUR,16.00,4.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+13 janv. 2026 20:21,Vente,TAAAZCSLX7N,Mastercard - Débit,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+13 janv. 2026 21:23,Vente,TAAAZCSZSYY,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+13 janv. 2026 21:24,Vente,TAAAZCSZYSN,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+13 janv. 2026 22:08,Vente,TAAAZCTBH6D,Espèces,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+13 janv. 2026 22:16,Vente,TAAAZCTCSRC,Visa - Débit,2,LBF,EUR,12.00,2.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+13 janv. 2026 22:17,Vente,TAAAZCTCYVS,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+13 janv. 2026 22:48,Vente,TAAAZCTHF64,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+14 janv. 2026 11:12,Vente,TAAAZCVHFZK,Visa - Crédit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+14 janv. 2026 11:28,Vente,TAAAZCVNR4D,Mastercard - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+14 janv. 2026 11:38,Vente,TAAAZCVRZ6S,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+14 janv. 2026 12:01,Vente,TAAAZCV2N49,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+14 janv. 2026 12:01,Vente,TAAAZCV2SVC,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+14 janv. 2026 12:01,Vente,TAAAZCV2SVC,Visa - Débit,1,Matcha latte,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+14 janv. 2026 13:26,Vente,TAAAZCX6TMA,Visa - Débit,2,Americano  Standard,EUR,7.00,1.05,5.95,5.41,0.54,10 %,admin@pingpang.paris
+14 janv. 2026 13:26,Vente,TAAAZCX6TMA,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+14 janv. 2026 13:26,Vente,TAAAZCX6TMA,Visa - Débit,2,Cappuccino Standard,EUR,10.00,1.50,8.50,7.73,0.77,10 %,admin@pingpang.paris
+14 janv. 2026 13:33,Vente,TAAAZCYACUE,Mastercard - Crédit,3,Cappuccino Standard,EUR,15.00,0.00,15.00,13.64,1.36,10 %,admin@pingpang.paris
+14 janv. 2026 13:33,Vente,TAAAZCYACUE,Mastercard - Crédit,2,Lait Végétal  Standard,EUR,1.00,0.00,1.00,0.91,0.09,10 %,admin@pingpang.paris
+14 janv. 2026 14:24,Vente,TAAAZCYT4FT,Visa - Débit,1,PBA KIDS Standard,EUR,25.00,0.00,25.00,20.83,4.17,20 %,admin@pingpang.paris
+14 janv. 2026 14:28,Vente,TAAAZCYVEDQ,Visa - Débit,2,Évian Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+14 janv. 2026 14:56,Vente,TAAAZCY7RQ6,Mastercard - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+14 janv. 2026 16:09,Vente,TAAAZCZXVQS,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+14 janv. 2026 18:21,Vente,TAAAZC3DDKZ,Visa - Crédit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+14 janv. 2026 18:21,Vente,TAAAZC3DDKZ,Visa - Crédit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+14 janv. 2026 18:21,Vente,TAAAZC3DDKZ,Visa - Crédit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+14 janv. 2026 18:21,Vente,TAAAZC3DDKZ,Visa - Crédit,1,Lait végétal,EUR,0.50,0.00,0.50,0.42,0.08,20 %,admin@pingpang.paris
+14 janv. 2026 18:21,Vente,TAAAZC3DDKZ,Visa - Crédit,1,Violet Lemonade,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+14 janv. 2026 18:38,Vente,TAAAZC3KDDK,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+14 janv. 2026 19:04,Remboursement,TAAAZC3SN4U,Mastercard - Débit,1,LBF,EUR,-6.00,0.00,-6.00,-5.00,-1.00,20 %,admin@pingpang.paris
+14 janv. 2026 19:04,Vente,TAAAZC3SN4U,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+14 janv. 2026 19:10,Vente,TAAAZC3UCC2,Mastercard - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+14 janv. 2026 19:54,Vente,TAAAZC4AFPP,Espèces,1,Abonnement GOLD,EUR,70.00,0.00,70.00,58.33,11.67,20 %,admin@pingpang.paris
+14 janv. 2026 19:54,Vente,TAAAZC4AFPP,Espèces,2,Corona 50cl Corona,EUR,16.00,4.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+14 janv. 2026 19:54,Vente,TAAAZC4AFPP,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+14 janv. 2026 19:54,Vente,TAAAZC4AFPP,Espèces,1,Happy Hour,EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+15 janv. 2026 10:49,Vente,TAAAZC9CYAX,Visa - Débit,1,Americano  Standard,EUR,3.50,0.00,3.50,3.18,0.32,10 %,admin@pingpang.paris
+15 janv. 2026 12:32,Vente,TAAAZDAK3CF,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+15 janv. 2026 12:35,Vente,TAAAZDAL4YM,Visa - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+15 janv. 2026 12:48,Vente,TAAAZDARRZN,Mastercard - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,1.50,8.50,7.08,1.42,20 %,admin@pingpang.paris
+15 janv. 2026 14:18,Vente,TAAAZDBV26N,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 15:13,Vente,TAAAZDCHPK9,Mastercard - Crédit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.38,3.42,3.10,0.32,10 %,admin@pingpang.paris
+15 janv. 2026 15:13,Vente,TAAAZDCHPK9,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+15 janv. 2026 15:13,Vente,TAAAZDCHPK9,Mastercard - Crédit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+15 janv. 2026 15:30,Vente,TAAAZDCPFAH,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+15 janv. 2026 15:30,Vente,TAAAZDCPFAH,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+15 janv. 2026 16:01,Vente,TAAAZDCZSAC,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 17:44,Vente,TAAAZDD64PL,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+15 janv. 2026 18:12,Vente,TAAAZDEGNDB,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+15 janv. 2026 18:33,Vente,"TAAAZDEPY2P, TAAAZDEP2KB","Visa - Crédit, Visa - Débit",1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 18:33,Vente,"TAAAZDEPY2P, TAAAZDEP2KB","Visa - Crédit, Visa - Débit",1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 18:33,Vente,"TAAAZDEPY2P, TAAAZDEP2KB","Visa - Crédit, Visa - Débit",2,Lait Végétal  Standard,EUR,1.00,0.00,1.00,0.91,0.09,10 %,admin@pingpang.paris
+15 janv. 2026 18:33,Vente,"TAAAZDEPY2P, TAAAZDEP2KB","Visa - Crédit, Visa - Débit",1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+15 janv. 2026 19:09,Vente,TAAAZDE3UTV,Espèces,2,Ginger Beer Accent 🫚 Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+15 janv. 2026 19:09,Vente,TAAAZDE3UTV,Espèces,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 19:26,Vente,TAAAZDFAFXE,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+15 janv. 2026 19:29,Vente,TAAAZDFBAXQ,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+15 janv. 2026 19:59,Vente,TAAAZDFK93F,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+15 janv. 2026 20:23,Vente,TAAAZDFR4RA,American Express - Crédit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+15 janv. 2026 20:23,Vente,TAAAZDFR4RA,American Express - Crédit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+15 janv. 2026 20:34,Vente,TAAAZDFUUQ7,Visa - Débit,1,Pack 1 étoile,EUR,309.00,0.00,309.00,257.50,51.50,20 %,admin@pingpang.paris
+15 janv. 2026 20:57,Vente,TAAAZDF2XS9,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+15 janv. 2026 22:06,Vente,"TAAAZDGKFZK, TAAAZDGKLPS, TAAAZDGKRLQ, TAAAZDGKSZP","Visa - Débit, Mastercard - Débit, Visa - Débit, Espèces",1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+15 janv. 2026 22:07,Vente,TAAAZDGKZGD,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+16 janv. 2026 10:47,Vente,TAAAZDKVBSQ,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+16 janv. 2026 10:47,Vente,TAAAZDKVCT9,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+16 janv. 2026 11:01,Vente,TAAAZDK2GCT,Visa - Crédit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+16 janv. 2026 11:12,Vente,TAAAZDK6ZRZ,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+16 janv. 2026 11:46,Vente,TAAAZDLLPNG,Visa - Débit,2,Évian Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+16 janv. 2026 12:00,Vente,TAAAZDLRVZA,Mastercard - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+16 janv. 2026 12:00,Vente,TAAAZDLRVZA,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+16 janv. 2026 12:14,Vente,TAAAZDLY6KM,Espèces,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+16 janv. 2026 14:38,Vente,TAAAZDN3B6A,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+16 janv. 2026 14:38,Vente,TAAAZDN3B6A,Visa - Débit,1,🤖Carobot 30 min,EUR,7.50,0.00,7.50,7.50,0.00,0 %,admin@pingpang.paris
+16 janv. 2026 14:48,Vente,TAAAZDN7XCY,Espèces,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+16 janv. 2026 14:48,Vente,TAAAZDN7XCY,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+16 janv. 2026 16:37,Vente,TAAAZDQLC7Z,Mastercard - Débit,2,Violet Lemonade,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+16 janv. 2026 16:50,Vente,TAAAZDQQ4UL,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+16 janv. 2026 16:50,Vente,TAAAZDQQ4UL,Visa - Débit,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+16 janv. 2026 16:50,Vente,TAAAZDQQ4UL,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+16 janv. 2026 17:15,Vente,TAAAZDQ3KT6,Visa - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+16 janv. 2026 17:15,Vente,TAAAZDQ3KT6,Visa - Débit,2,JUS DE FRUITS ORANGE 🍊,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+16 janv. 2026 17:25,Vente,TAAAZDQ7ZZY,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+16 janv. 2026 18:06,Vente,TAAAZDRQP4K,Espèces,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+16 janv. 2026 18:35,Vente,TAAAZDR3KSQ,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+16 janv. 2026 19:36,Vente,TAAAZDSTDXZ,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+16 janv. 2026 19:43,Vente,TAAAZDSVST7,Mastercard - Débit,2,JOSIAS JOSIAS1,EUR,120.00,0.00,120.00,120.00,0.00,0 %,admin@pingpang.paris
+16 janv. 2026 19:43,Vente,TAAAZDSVST7,Mastercard - Débit,2,Play Peak Play One (Peak),EUR,60.00,0.00,60.00,50.00,10.00,20 %,admin@pingpang.paris
+16 janv. 2026 20:23,Vente,TAAAZDTDRUH,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,4.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+16 janv. 2026 20:33,Vente,TAAAZDTGUP6,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+16 janv. 2026 20:56,Vente,TAAAZDTQPNH,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+16 janv. 2026 21:12,Vente,"TAAAZDTVCKH, TAAAZDTVDKT","Visa - Débit, Visa - Débit",1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+16 janv. 2026 22:34,Vente,TAAAZDUN6VM,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+16 janv. 2026 22:41,Vente,TAAAZDUQY4R,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+16 janv. 2026 22:41,Vente,TAAAZDUQY4R,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+17 janv. 2026 09:48,Vente,TAAAZDXZ2ZR,Visa - Débit,1,PBA KIDS Standard,EUR,25.00,0.00,25.00,20.83,4.17,20 %,admin@pingpang.paris
+17 janv. 2026 11:56,Vente,TAAAZDZMAY9,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+17 janv. 2026 13:46,Vente,TAAAZD3DC6D,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+17 janv. 2026 13:48,Vente,TAAAZD3ELF4,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+17 janv. 2026 13:48,Vente,TAAAZD3ELF4,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+17 janv. 2026 15:04,Vente,TAAAZD4LVCX,Visa - Débit,2,Lait Végétal  Standard,EUR,1.00,0.00,1.00,0.91,0.09,10 %,admin@pingpang.paris
+17 janv. 2026 15:04,Vente,TAAAZD4LVCX,Visa - Débit,2,Matcha latte,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+17 janv. 2026 15:14,Vente,TAAAZD4Q73C,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+17 janv. 2026 17:01,Vente,TAAAZD7FHH2,Mastercard - Crédit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+17 janv. 2026 17:33,Vente,TAAAZD7UZLY,Visa - Crédit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+17 janv. 2026 17:33,Vente,TAAAZD7UZLY,Visa - Crédit,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+17 janv. 2026 18:56,Vente,TAAAZD9XFKG,American Express - Crédit,1,Chaussettes raquette ACC Blanc · 43-46,EUR,20.00,10.00,10.00,8.34,1.66,20 %,admin@pingpang.paris
+17 janv. 2026 18:56,Vente,TAAAZD9XFKG,American Express - Crédit,1,Chaussettes raquette ACC Vert · 43-46,EUR,20.00,10.00,10.00,8.34,1.66,20 %,admin@pingpang.paris
+17 janv. 2026 19:12,Vente,TAAAZD94XQP,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+17 janv. 2026 19:32,Vente,TAAAZEADZDY,Visa - Débit,2,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+17 janv. 2026 19:32,Vente,TAAAZEADZDY,Visa - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+17 janv. 2026 19:47,Vente,TAAAZEAKZQY,Mastercard - Crédit,1,Coaching Tom avec Éric,EUR,112.50,0.00,112.50,93.75,18.75,20 %,admin@pingpang.paris
+17 janv. 2026 19:58,Vente,TAAAZEAPU3U,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+17 janv. 2026 20:00,Vente,TAAAZEAQLEC,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+17 janv. 2026 20:00,Vente,TAAAZEAQLEC,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+17 janv. 2026 22:33,Vente,TAAAZECB4M4,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 09:57,Vente,TAAAZEESHVR,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+18 janv. 2026 11:13,Vente,TAAAZEE7YZY,Visa - Débit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,2,Café Latte Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,2,Lait Végétal  Standard,EUR,1.00,0.00,1.00,0.91,0.09,10 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,1,TOM Standard,EUR,45.00,0.00,45.00,37.50,7.50,20 %,admin@pingpang.paris
+18 janv. 2026 13:23,Vente,TAAAZEGEUUT,Mastercard - Crédit,1,TOM TOM 1/2H,EUR,22.50,0.00,22.50,18.75,3.75,20 %,admin@pingpang.paris
+18 janv. 2026 13:37,Vente,TAAAZEGK7VT,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+18 janv. 2026 13:54,Vente,TAAAZEGQ6KY,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 13:54,Vente,TAAAZEGQ6KY,Espèces,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+18 janv. 2026 14:55,Vente,TAAAZEHEN6Y,Visa - Débit,2,Play Peak Play One (Peak),EUR,60.00,0.00,60.00,50.00,10.00,20 %,admin@pingpang.paris
+18 janv. 2026 15:05,Vente,TAAAZEHHR23,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+18 janv. 2026 15:09,Vente,TAAAZEHKYPF,Visa - Débit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+18 janv. 2026 15:10,Vente,TAAAZEHLDGY,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+18 janv. 2026 15:29,Vente,TAAAZEHR6XR,Mastercard - Crédit,1,Americano  Standard,EUR,3.50,0.00,3.50,3.18,0.32,10 %,admin@pingpang.paris
+18 janv. 2026 15:36,Vente,TAAAZEHUBLM,Mastercard - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+18 janv. 2026 15:36,Vente,TAAAZEHUBLM,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+18 janv. 2026 15:36,Vente,TAAAZEHUBLM,Mastercard - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+18 janv. 2026 16:07,Vente,TAAAZEH7Z9E,Mastercard - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+18 janv. 2026 16:09,Vente,TAAAZEH9QZK,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 16:34,Vente,TAAAZEKGS7Q,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+18 janv. 2026 16:41,Vente,TAAAZEKKTVU,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 16:45,Vente,TAAAZEKL26K,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+18 janv. 2026 17:17,Vente,TAAAZEKVE2S,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+18 janv. 2026 17:19,Vente,TAAAZEKVXZX,Visa - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+18 janv. 2026 17:36,Vente,TAAAZEK26MS,Mastercard - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+18 janv. 2026 17:36,Vente,TAAAZEK26MS,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 18:00,Vente,TAAAZELAQHY,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+18 janv. 2026 18:38,Vente,TAAAZELKSNE,Espèces,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+18 janv. 2026 18:39,Vente,TAAAZELKZF3,Visa - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+18 janv. 2026 20:58,Vente,TAAAZEMGL9N,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+18 janv. 2026 21:06,Vente,TAAAZEMHSYM,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+18 janv. 2026 21:57,Vente,TAAAZEMRDEK,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+19 janv. 2026 10:54,Vente,TAAAZEPLP2K,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+19 janv. 2026 14:02,Vente,TAAAZERE3ZE,Mastercard - Crédit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+19 janv. 2026 14:02,Vente,TAAAZERE3ZE,Mastercard - Crédit,2,Café Latte Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+19 janv. 2026 14:02,Vente,TAAAZERE3ZE,Mastercard - Crédit,2,JOSIAS JOSIAS1,EUR,120.00,0.00,120.00,120.00,0.00,0 %,admin@pingpang.paris
+19 janv. 2026 14:02,Vente,TAAAZERE3ZE,Mastercard - Crédit,2,Lait Végétal  Standard,EUR,1.00,0.00,1.00,0.91,0.09,10 %,admin@pingpang.paris
+19 janv. 2026 14:02,Vente,TAAAZERE3ZE,Mastercard - Crédit,2,Play Off-Peak Play One (Off-Peak),EUR,40.00,0.00,40.00,33.33,6.67,20 %,admin@pingpang.paris
+19 janv. 2026 14:31,Vente,TAAAZERPTBX,Espèces,2,Double Espresso ☕️ Standard,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+19 janv. 2026 16:38,Vente,TAAAZESS4GA,Espèces,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+19 janv. 2026 17:01,Vente,TAAAZESZXD6,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+19 janv. 2026 17:14,Vente,TAAAZES44LT,Visa - Débit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+19 janv. 2026 17:14,Vente,TAAAZES44LT,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+19 janv. 2026 18:05,Vente,TAAAZETLS2K,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+19 janv. 2026 18:05,Vente,TAAAZETLUKN,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+19 janv. 2026 20:34,Vente,TAAAZEUP3LF,Mastercard - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+19 janv. 2026 22:52,Vente,TAAAZEVEZ64,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+19 janv. 2026 22:57,Vente,TAAAZEVFLD7,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+19 janv. 2026 23:04,Vente,TAAAZEVGDS9,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+19 janv. 2026 23:04,Vente,TAAAZEVGDS9,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+20 janv. 2026 11:34,Vente,TAAAZEYGM6Y,Mastercard - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+20 janv. 2026 11:35,Vente,TAAAZEYGXER,Visa - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+20 janv. 2026 11:35,Vente,TAAAZEYGXER,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+20 janv. 2026 11:35,Vente,TAAAZEYGXER,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+20 janv. 2026 11:35,Vente,TAAAZEYGXER,Visa - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+20 janv. 2026 13:17,Vente,TAAAZEZQ2AT,Visa - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+20 janv. 2026 13:40,Vente,TAAAZEZZPPB,Mastercard - Débit,1,Cappuccino Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+20 janv. 2026 13:40,Vente,TAAAZEZZPPB,Mastercard - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+20 janv. 2026 13:41,Vente,TAAAZEZZSRR,Mastercard - Débit,1,Cappuccino Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+20 janv. 2026 13:41,Vente,TAAAZEZZSRR,Mastercard - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+20 janv. 2026 13:41,Vente,TAAAZEZZUSS,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+20 janv. 2026 14:35,Vente,TAAAZE2MHRL,Visa - Débit,1,Café Latte Standard,EUR,5.00,1.50,3.50,3.19,0.31,10 %,admin@pingpang.paris
+20 janv. 2026 14:35,Vente,TAAAZE2MHRL,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.15,0.35,0.31,0.04,10 %,admin@pingpang.paris
+20 janv. 2026 15:13,Vente,TAAAZE2Y7MR,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+20 janv. 2026 15:13,Vente,TAAAZE2Y7MR,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+20 janv. 2026 17:03,Vente,TAAAZE34ESU,Mastercard - Débit,2,Play Peak Play One (Peak),EUR,60.00,9.00,51.00,42.50,8.50,20 %,admin@pingpang.paris
+20 janv. 2026 17:17,Vente,TAAAZE4AH73,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+20 janv. 2026 17:17,Vente,TAAAZE4AH73,Espèces,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+20 janv. 2026 18:06,Vente,TAAAZE4RCL7,Carte non assignée,2,Play Peak Play Half (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+20 janv. 2026 18:06,Vente,TAAAZE4RCL7,Carte non assignée,2,Play Peak Play One (Peak),EUR,60.00,30.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+20 janv. 2026 18:43,Vente,TAAAZE44DFD,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+20 janv. 2026 19:34,Vente,TAAAZE6K3QR,Espèces,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+20 janv. 2026 19:34,Vente,TAAAZE6K3QR,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+20 janv. 2026 20:03,Vente,TAAAZE6SQX2,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+20 janv. 2026 20:03,Vente,TAAAZE6SQX2,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+20 janv. 2026 20:40,Vente,TAAAZE63SEP,Mastercard - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+20 janv. 2026 20:40,Vente,TAAAZE63SEP,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+20 janv. 2026 20:40,Vente,TAAAZE63SEP,Mastercard - Débit,1,Play tarif réduit Peak One Hour,EUR,26.00,0.00,26.00,23.64,2.36,10 %,admin@pingpang.paris
+21 janv. 2026 10:22,Vente,TAAAZFAE7AB,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+21 janv. 2026 11:01,Vente,TAAAZFARPTQ,Mastercard - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+21 janv. 2026 11:58,Vente,TAAAZFBDPKX,Espèces,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 11:58,Vente,TAAAZFBDUTH,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+21 janv. 2026 11:58,Vente,TAAAZFBDUTH,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+21 janv. 2026 11:59,Vente,TAAAZFBD99S,Espèces,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+21 janv. 2026 12:37,Vente,TAAAZFBU69K,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+21 janv. 2026 12:38,Vente,TAAAZFBVEMX,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+21 janv. 2026 12:51,Vente,TAAAZFB24V3,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+21 janv. 2026 13:06,Vente,TAAAZFCAL6S,Visa - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+21 janv. 2026 13:06,Vente,TAAAZFCAL6S,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+21 janv. 2026 13:06,Vente,TAAAZFCAL6S,Visa - Débit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 13:43,Vente,TAAAZFCQCRC,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.75,4.25,3.55,0.70,20 %,admin@pingpang.paris
+21 janv. 2026 13:43,Vente,TAAAZFCQEDL,Visa - Débit,1,Matcha latte,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+21 janv. 2026 14:21,Vente,TAAAZFC6UNH,Espèces,1,Play tarif réduit Off-peak Half hour,EUR,8.00,0.00,8.00,7.27,0.73,10 %,admin@pingpang.paris
+21 janv. 2026 14:23,Vente,TAAAZFC7EUX,Espèces,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 14:23,Vente,TAAAZFC7EUX,Espèces,2,Cookie cloud 🍪,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+21 janv. 2026 14:48,Vente,TAAAZFDFQUX,Mastercard - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+21 janv. 2026 14:48,Vente,TAAAZFDFQUX,Mastercard - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 14:48,Vente,TAAAZFDFQUX,Mastercard - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+21 janv. 2026 15:19,Vente,TAAAZFDRRYU,Mastercard - Crédit,1,Cookie cloud 🍪,EUR,6.00,0.60,5.40,4.50,0.90,20 %,admin@pingpang.paris
+21 janv. 2026 16:40,Vente,TAAAZFEMFAM,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+21 janv. 2026 17:10,Vente,TAAAZFEXBSK,Mastercard - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 17:10,Vente,TAAAZFEXBSK,Mastercard - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+21 janv. 2026 17:38,Vente,TAAAZFE9RSB,Espèces,3,Corona 50cl Corona,EUR,24.00,0.00,24.00,20.00,4.00,20 %,admin@pingpang.paris
+21 janv. 2026 18:25,Vente,TAAAZFFQK9P,Espèces,1,Happy Hour,EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+21 janv. 2026 18:26,Vente,TAAAZFFQMPX,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+21 janv. 2026 18:30,Vente,TAAAZFFRPXF,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+21 janv. 2026 18:50,Vente,TAAAZFFYEHC,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+21 janv. 2026 19:09,Vente,TAAAZFF6NRZ,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+21 janv. 2026 19:09,Vente,TAAAZFF6NRZ,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+21 janv. 2026 20:40,Vente,TAAAZFGXE27,Mastercard - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+21 janv. 2026 20:40,Vente,TAAAZFGXE27,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+21 janv. 2026 20:51,Vente,TAAAZFGZQCK,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+22 janv. 2026 11:33,Vente,TAAAZFL37EU,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+22 janv. 2026 15:47,Vente,TAAAZFP7QL7,Visa - Débit,1,Café Latte Standard,EUR,5.00,1.50,3.50,3.19,0.31,10 %,admin@pingpang.paris
+22 janv. 2026 15:47,Vente,TAAAZFP7QL7,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.15,0.35,0.31,0.04,10 %,admin@pingpang.paris
+22 janv. 2026 16:13,Vente,"TAAAZFQGF77, TAAAZFQGN6N","Mastercard - Débit, Mastercard - Débit",1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+22 janv. 2026 16:13,Vente,"TAAAZFQGF77, TAAAZFQGN6N","Mastercard - Débit, Mastercard - Débit",1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+22 janv. 2026 16:13,Vente,"TAAAZFQGF77, TAAAZFQGN6N","Mastercard - Débit, Mastercard - Débit",1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+22 janv. 2026 16:13,Vente,"TAAAZFQGF77, TAAAZFQGN6N","Mastercard - Débit, Mastercard - Débit",1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 16:13,Vente,"TAAAZFQGF77, TAAAZFQGN6N","Mastercard - Débit, Mastercard - Débit",1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+22 janv. 2026 18:12,Vente,TAAAZFRSPYB,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+22 janv. 2026 18:12,Vente,TAAAZFRSPYB,Visa - Débit,1,🤖Carobot Standard,EUR,15.00,0.00,15.00,15.00,0.00,0 %,admin@pingpang.paris
+22 janv. 2026 18:24,Vente,TAAAZFRV2CC,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+22 janv. 2026 18:24,Vente,TAAAZFRV2CC,Espèces,2,The vert pêche - Meneau Standard,EUR,8.00,0.80,7.20,6.54,0.66,10 %,admin@pingpang.paris
+22 janv. 2026 18:29,Vente,TAAAZFRYMNA,Visa - Débit,1,Carrot cake,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+22 janv. 2026 19:53,Vente,TAAAZFSTA94,Mastercard - Débit,1,Violet Lemonade,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+22 janv. 2026 20:12,Vente,TAAAZFSY4RE,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+22 janv. 2026 20:15,Vente,TAAAZFSZSDG,Visa - Crédit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+22 janv. 2026 20:15,Vente,TAAAZFSZSDG,Visa - Crédit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 21:01,Vente,TAAAZFTEDAL,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+22 janv. 2026 21:17,Vente,TAAAZFTHTD6,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+22 janv. 2026 21:17,Vente,TAAAZFTHTD6,Espèces,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+22 janv. 2026 21:22,Vente,TAAAZFTKSUQ,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+22 janv. 2026 21:22,Vente,TAAAZFTKSUQ,Visa - Débit,1,🤖Carobot 30 min,EUR,7.50,0.00,7.50,7.50,0.00,0 %,admin@pingpang.paris
+22 janv. 2026 21:51,Vente,TAAAZFTRKFU,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+22 janv. 2026 22:07,Vente,TAAAZFTUNDY,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+22 janv. 2026 22:07,Vente,TAAAZFTUNDY,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 22:07,Vente,TAAAZFTURC9,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+22 janv. 2026 22:08,Vente,TAAAZFTUS4S,Mastercard - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 22:08,Vente,TAAAZFTUUL2,Visa - Débit,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 22:08,Vente,TAAAZFTUXSX,Espèces,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 22:09,Vente,TAAAZFTUYKX,Visa - Crédit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+22 janv. 2026 22:10,Vente,TAAAZFTVBP2,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+22 janv. 2026 22:17,Vente,TAAAZFTXK4N,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+23 janv. 2026 11:15,Vente,TAAAZFXKBA9,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+23 janv. 2026 11:19,Vente,TAAAZFXLKXL,Visa - Débit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 11:36,Vente,TAAAZFXSBBY,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+23 janv. 2026 11:36,Vente,TAAAZFXSBBY,Mastercard - Crédit,1,Sport santé,EUR,25.00,0.00,25.00,20.83,4.17,20 %,admin@pingpang.paris
+23 janv. 2026 11:41,Vente,TAAAZFXTXLA,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+23 janv. 2026 11:44,Vente,TAAAZFXU237,Mastercard - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+23 janv. 2026 11:44,Vente,TAAAZFXU237,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+23 janv. 2026 12:17,Vente,TAAAZFYDBFN,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+23 janv. 2026 12:27,Vente,TAAAZFYG2ZK,Mastercard - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 12:27,Vente,TAAAZFYG2ZK,Mastercard - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 13:27,Vente,TAAAZFZDA7E,Visa - Débit,1,Play tarif réduit Off-peak Half hour,EUR,8.00,0.00,8.00,7.27,0.73,10 %,admin@pingpang.paris
+23 janv. 2026 14:26,Vente,TAAAZFZ72FN,Mastercard - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+23 janv. 2026 14:40,Vente,TAAAZF2EFB6,Visa - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+23 janv. 2026 14:40,Vente,TAAAZF2EFB6,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 15:22,Vente,TAAAZF2V722,Espèces,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+23 janv. 2026 15:35,Vente,TAAAZF23MMX,Espèces,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+23 janv. 2026 15:41,Vente,TAAAZF26PAL,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+23 janv. 2026 15:41,Vente,TAAAZF26PAL,Espèces,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+23 janv. 2026 17:00,Vente,TAAAZF36USH,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+23 janv. 2026 17:25,Vente,TAAAZF4GLKX,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+23 janv. 2026 17:40,Vente,TAAAZF4NYFS,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 17:41,Vente,TAAAZF4PDKN,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+23 janv. 2026 17:48,Vente,TAAAZF4RTR3,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+23 janv. 2026 18:02,Vente,TAAAZF4XP4F,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+23 janv. 2026 18:02,Vente,TAAAZF4XSM2,Visa - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+23 janv. 2026 18:22,Vente,TAAAZF47RUK,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+23 janv. 2026 18:22,Vente,TAAAZF47RUK,Visa - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+23 janv. 2026 18:22,Vente,TAAAZF47RUK,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,4.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+23 janv. 2026 18:27,Vente,TAAAZF6AG3Z,Visa - Débit,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+23 janv. 2026 18:36,Vente,"TAAAZF6CYX2, TAAAZF6DCCU","Visa - Débit, Espèces",1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+23 janv. 2026 18:36,Vente,"TAAAZF6CYX2, TAAAZF6DCCU","Visa - Débit, Espèces",1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+23 janv. 2026 18:45,Vente,TAAAZF6GMA4,Espèces,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+23 janv. 2026 18:45,Vente,TAAAZF6GMA4,Espèces,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+23 janv. 2026 18:56,Vente,TAAAZF6MC7L,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+23 janv. 2026 18:56,Vente,TAAAZF6MC7L,Visa - Débit,1,🤖Carobot 30 min,EUR,7.50,0.00,7.50,7.50,0.00,0 %,admin@pingpang.paris
+23 janv. 2026 19:33,Vente,TAAAZF62YXL,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+23 janv. 2026 20:05,Vente,TAAAZF7F2FD,Espèces,1,Effect x Identité XMAS - noir XS,EUR,50.00,15.00,35.00,29.17,5.83,20 %,admin@pingpang.paris
+23 janv. 2026 21:50,Vente,TAAAZF9LDS7,Visa - Crédit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+24 janv. 2026 10:10,Vente,TAAAZGCHYNB,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+24 janv. 2026 10:56,Vente,TAAAZGCZX6U,Visa - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+24 janv. 2026 10:56,Vente,TAAAZGCZX6U,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 12:04,Vente,TAAAZGD2DBY,Visa - Débit,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+24 janv. 2026 13:09,Vente,TAAAZGE37QR,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+24 janv. 2026 13:09,Vente,TAAAZGE37QR,Visa - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 13:11,Vente,TAAAZGE492P,Visa - Débit,1,Anniversaire Martin 8 février,EUR,133.00,0.00,133.00,110.83,22.17,20 %,admin@pingpang.paris
+24 janv. 2026 14:58,Vente,TAAAZGGTEL4,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+24 janv. 2026 15:55,Vente,TAAAZGHRXQH,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+24 janv. 2026 16:35,Vente,TAAAZGKD9XD,Espèces,1,tkbilavarn@gmail.com,EUR,99.00,0.00,99.00,99.00,0.00,0 %,admin@pingpang.paris
+24 janv. 2026 18:02,Vente,TAAAZGLMKDF,Mastercard - Crédit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+24 janv. 2026 18:15,Vente,TAAAZGLSA7Q,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+24 janv. 2026 19:10,Vente,TAAAZGMF73R,Visa - Débit,1,PP Split,EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+24 janv. 2026 19:11,Vente,TAAAZGMGFFF,Visa - Débit,1,PP Split,EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+24 janv. 2026 19:27,Vente,TAAAZGMNXCA,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+24 janv. 2026 19:34,Vente,TAAAZGMRAHG,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+24 janv. 2026 19:49,Vente,TAAAZGMXMN6,Visa - Crédit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+24 janv. 2026 19:54,Vente,TAAAZGMZCA7,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+24 janv. 2026 20:08,Vente,TAAAZGM6247,Espèces,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 20:09,Vente,TAAAZGM7B74,Espèces,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+24 janv. 2026 20:10,Vente,TAAAZGM7QFE,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 20:11,Vente,TAAAZGM77H9,Espèces,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 20:18,Vente,TAAAZGNBDTM,Espèces,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 20:19,Vente,TAAAZGNBQ9L,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+24 janv. 2026 20:25,Vente,TAAAZGNDVRL,Visa - Débit,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+24 janv. 2026 20:27,Vente,TAAAZGNEM29,Visa - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+24 janv. 2026 20:31,Vente,TAAAZGNFRHV,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 21:42,Vente,TAAAZGN79BV,Visa - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+24 janv. 2026 21:52,Vente,TAAAZGPB3NR,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:00,Vente,TAAAZGPEEUH,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:01,Vente,TAAAZGPEPET,Espèces,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:14,Vente,TAAAZGPHYSV,Visa - Débit,2,Diavola Standard,EUR,31.80,0.00,31.80,28.91,2.89,10 %,admin@pingpang.paris
+24 janv. 2026 22:15,Vente,TAAAZGPKAS3,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:15,Vente,TAAAZGPKGDA,Mastercard - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:20,Vente,TAAAZGPLK4B,Visa - Débit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:20,Vente,TAAAZGPLK4B,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:21,Vente,TAAAZGPLSZS,Visa - Débit,1,4 Formaggi Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:21,Vente,TAAAZGPLSZS,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:21,Vente,TAAAZGPLV99,Mastercard - Débit,1,Tonno Standard,EUR,17.90,0.00,17.90,16.27,1.63,10 %,admin@pingpang.paris
+24 janv. 2026 22:22,Vente,TAAAZGPL6D4,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:22,Vente,TAAAZGPL6D4,Visa - Débit,1,Supp bourra ta,EUR,2.00,0.00,2.00,2.00,0.00,,admin@pingpang.paris
+24 janv. 2026 22:22,Vente,TAAAZGPMAHP,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:23,Vente,TAAAZGPMEAE,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:23,Vente,TAAAZGPMEAE,Visa - Débit,1,Supp bourrata,EUR,2.00,0.00,2.00,1.67,0.33,20 %,admin@pingpang.paris
+24 janv. 2026 22:26,Vente,TAAAZGPM3KS,Mastercard - Débit,1,4 Formaggi Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:26,Vente,TAAAZGPM3KS,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:26,Vente,TAAAZGPM3KS,Mastercard - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:27,Vente,TAAAZGPNEBT,Mastercard - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:28,Vente,TAAAZGPNM2M,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+24 janv. 2026 22:28,Vente,TAAAZGPNM2M,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 22:28,Vente,TAAAZGPNM2M,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:28,Vente,TAAAZGPNR63,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 22:46,Vente,TAAAZGPTEZQ,Visa - Débit,2,ChariTea  Red,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+24 janv. 2026 22:46,Vente,TAAAZGPTEZQ,Visa - Débit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 23:24,Vente,TAAAZGP6XT7,Visa - Crédit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 23:24,Vente,TAAAZGP62RK,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 23:25,Vente,TAAAZGP7BL7,Visa - Débit,1,Tonno Standard,EUR,17.90,0.00,17.90,16.27,1.63,10 %,admin@pingpang.paris
+24 janv. 2026 23:26,Vente,TAAAZGP7GCG,Espèces,1,Diavola Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 23:26,Vente,TAAAZGP7GCG,Espèces,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+24 janv. 2026 23:28,Vente,TAAAZGP7UZK,Mastercard - Débit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+24 janv. 2026 23:28,Vente,TAAAZGP7UZK,Mastercard - Débit,1,Diavola Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 23:28,Vente,TAAAZGP7UZK,Mastercard - Débit,1,Parma Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 23:30,Vente,TAAAZGP9HNY,Visa - Débit,1,Diavola Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 23:30,Vente,TAAAZGP9HNY,Visa - Débit,1,Tartufo Standard,EUR,18.90,0.00,18.90,17.18,1.72,10 %,admin@pingpang.paris
+24 janv. 2026 23:33,Vente,TAAAZGQAAFA,Visa - Débit,1,Diavola Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 23:36,Vente,TAAAZGQATNC,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+24 janv. 2026 23:36,Vente,TAAAZGQATNC,Visa - Débit,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+24 janv. 2026 23:36,Vente,TAAAZGQATNC,Visa - Débit,1,Diavola Standard,EUR,15.90,0.00,15.90,14.45,1.45,10 %,admin@pingpang.paris
+24 janv. 2026 23:36,Vente,TAAAZGQATNC,Visa - Débit,1,Margherita Standard,EUR,13.00,0.00,13.00,11.82,1.18,10 %,admin@pingpang.paris
+24 janv. 2026 23:45,Vente,TAAAZGQC2UF,American Express - Crédit,2,4 Formaggi Standard,EUR,31.80,0.00,31.80,28.91,2.89,10 %,admin@pingpang.paris
+24 janv. 2026 23:45,Vente,TAAAZGQC2UF,American Express - Crédit,2,Diavola Standard,EUR,31.80,0.00,31.80,28.91,2.89,10 %,admin@pingpang.paris
+24 janv. 2026 23:45,Vente,TAAAZGQC2UF,American Express - Crédit,1,RAP Anniversaire Sandra,EUR,345.00,0.00,345.00,287.50,57.50,20 %,admin@pingpang.paris
+24 janv. 2026 23:45,Vente,TAAAZGQC2UF,American Express - Crédit,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+25 janv. 2026 11:40,Vente,TAAAZGSUFU2,Visa - Débit,2,Café allongé Standard,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+25 janv. 2026 11:47,Vente,TAAAZGSV4HF,Visa - Débit,1,Iced Vanilla Foam Latte,EUR,6.50,0.00,6.50,5.42,1.08,20 %,admin@pingpang.paris
+25 janv. 2026 11:50,Vente,TAAAZGSXRHS,Mastercard - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+25 janv. 2026 11:59,Vente,TAAAZGSZ96D,Espèces,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+25 janv. 2026 11:59,Vente,TAAAZGSZ96D,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+25 janv. 2026 11:59,Vente,TAAAZGSZ96D,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+25 janv. 2026 11:59,Vente,TAAAZGSZ96D,Espèces,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 12:01,Vente,TAAAZGS2LNS,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 12:01,Vente,TAAAZGS2LNS,Mastercard - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 12:55,Vente,TAAAZGTLQYK,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+25 janv. 2026 13:06,Vente,TAAAZGTPVXZ,Visa - Débit,2,Café allongé Standard,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+25 janv. 2026 13:15,Vente,TAAAZGTSM2B,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 13:15,Vente,TAAAZGTSM2B,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+25 janv. 2026 13:34,Vente,TAAAZGTYYVM,Espèces,1,ChariTea  Green,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+25 janv. 2026 13:34,Vente,TAAAZGTYYVM,Espèces,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 13:45,Vente,TAAAZGT4CAH,Espèces,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+25 janv. 2026 14:24,Vente,TAAAZGUHZVE,Mastercard - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+25 janv. 2026 14:25,Vente,TAAAZGUKAKN,Visa - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+25 janv. 2026 14:25,Vente,TAAAZGUKAKN,Visa - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+25 janv. 2026 14:36,Vente,TAAAZGUNM4G,Visa - Débit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 14:36,Vente,TAAAZGUNM4G,Visa - Débit,2,LBF,EUR,12.00,0.00,12.00,10.00,2.00,20 %,admin@pingpang.paris
+25 janv. 2026 14:36,Vente,TAAAZGUNM4G,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+25 janv. 2026 14:50,Vente,TAAAZGUSVGG,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+25 janv. 2026 14:50,Vente,TAAAZGUSVGG,Mastercard - Débit,1,🤖Carobot 30 min,EUR,7.50,0.00,7.50,7.50,0.00,0 %,admin@pingpang.paris
+25 janv. 2026 14:57,Vente,TAAAZGUUUVM,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 14:57,Vente,TAAAZGUUUVM,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 15:33,Vente,TAAAZGVAZB9,Visa - Débit,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+25 janv. 2026 15:46,Vente,TAAAZGVE37V,Mastercard - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+25 janv. 2026 15:49,Vente,TAAAZGVFZ9C,Maestro - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 15:49,Vente,TAAAZGVFZ9C,Maestro - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 15:50,Vente,TAAAZGVF3AS,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 16:22,Vente,TAAAZGVSK4C,Espèces,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+25 janv. 2026 18:27,Vente,TAAAZGXUMPV,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 18:27,Vente,TAAAZGXUMPV,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+25 janv. 2026 18:27,Vente,TAAAZGXUQKT,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+25 janv. 2026 18:27,Vente,TAAAZGXUQKT,Espèces,1,Limonade Accent ⚪️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+25 janv. 2026 19:30,Vente,TAAAZGYBXSE,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+25 janv. 2026 20:53,Vente,TAAAZGYS93L,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 20:53,Vente,TAAAZGYTBU7,Espèces,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 20:54,Vente,TAAAZGYTDXP,Mastercard - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 20:54,Vente,TAAAZGYTFLP,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 20:54,Vente,TAAAZGYTHEP,Visa - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 20:55,Vente,TAAAZGYTMDF,Mastercard - Débit,1,PP Split,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+25 janv. 2026 21:10,Vente,TAAAZGYVRL2,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+26 janv. 2026 11:35,Vente,TAAAZG29ZSZ,Mastercard - Crédit,1,Cookie cloud 🍪,EUR,6.00,0.60,5.40,4.50,0.90,20 %,admin@pingpang.paris
+26 janv. 2026 11:35,Vente,TAAAZG29ZSZ,Mastercard - Crédit,1,🤖Carobot Standard,EUR,15.00,0.00,15.00,15.00,0.00,0 %,admin@pingpang.paris
+26 janv. 2026 16:05,Vente,TAAAZG6S4CL,Visa - Crédit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+26 janv. 2026 16:05,Vente,TAAAZG6S4CL,Visa - Crédit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+26 janv. 2026 17:12,Vente,TAAAZG7E2PR,Visa - Débit,1,🤖Carobot Standard,EUR,15.00,0.00,15.00,15.00,0.00,0 %,admin@pingpang.paris
+26 janv. 2026 17:16,Vente,TAAAZG7F43Q,Espèces,2,Espresso ☕️ Standard,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+26 janv. 2026 17:53,Vente,TAAAZG7SA6Q,Mastercard - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+26 janv. 2026 17:53,Vente,TAAAZG7SA6Q,Mastercard - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+26 janv. 2026 18:16,Vente,TAAAZG7Y3S7,Mastercard - Crédit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.38,3.42,3.10,0.32,10 %,admin@pingpang.paris
+26 janv. 2026 18:16,Vente,TAAAZG7Y3S7,Mastercard - Crédit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+26 janv. 2026 18:19,Vente,TAAAZG7ZVKC,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+26 janv. 2026 18:20,Vente,TAAAZG7ZZHU,Visa - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+26 janv. 2026 19:00,Vente,TAAAZG9DLZF,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+26 janv. 2026 19:15,Vente,TAAAZG9GZD3,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+26 janv. 2026 19:20,Vente,TAAAZG9HYKP,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+26 janv. 2026 20:07,Vente,TAAAZG9UFMA,Visa - Débit,1,Perrier,EUR,4.60,0.00,4.60,4.18,0.42,10 %,admin@pingpang.paris
+26 janv. 2026 21:09,Vente,TAAAZG9949L,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+26 janv. 2026 21:56,Vente,TAAAZHAG6YQ,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+26 janv. 2026 22:03,Vente,TAAAZHAKAXV,Visa - Crédit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+26 janv. 2026 22:04,Vente,TAAAZHAKDPA,Mastercard - Débit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+26 janv. 2026 22:05,Vente,TAAAZHAKHZ6,Visa - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 10:11,Vente,TAAAZHB4SQK,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 10:11,Vente,TAAAZHB4VD6,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 10:18,Vente,TAAAZHB6776,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+27 janv. 2026 10:18,Vente,TAAAZHB7CZ3,Mastercard - Débit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+27 janv. 2026 10:18,Vente,TAAAZHB7EPM,Mastercard - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 10:18,Vente,TAAAZHB7EPM,Mastercard - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+27 janv. 2026 10:23,Vente,TAAAZHB9FGP,Visa Electron - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 10:24,Vente,TAAAZHB9K63,Mastercard - Crédit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 10:24,Vente,TAAAZHB9K63,Mastercard - Crédit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+27 janv. 2026 11:23,Vente,TAAAZHCRKRV,Visa - Débit,1,Americano  Standard,EUR,3.50,1.05,2.45,2.23,0.22,10 %,admin@pingpang.paris
+27 janv. 2026 12:02,Vente,TAAAZHC7L3L,American Express - Crédit,1,Audace Hoodie S,EUR,90.00,0.00,90.00,75.00,15.00,20 %,admin@pingpang.paris
+27 janv. 2026 12:02,Vente,TAAAZHC7L3L,American Express - Crédit,1,Justesse T-shirt Noir · S,EUR,50.00,0.00,50.00,41.67,8.33,20 %,admin@pingpang.paris
+27 janv. 2026 13:11,Vente,TAAAZHD2SPN,Espèces,2,Club Mate Cola ⚫️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+27 janv. 2026 13:35,Vente,TAAAZHECLSQ,Espèces,2,Double Espresso ☕️ Standard,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+27 janv. 2026 14:16,Vente,TAAAZHESBS2,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 15:51,Vente,TAAAZHFP6EY,Visa - Débit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 16:22,Vente,TAAAZHFZTFS,Espèces,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+27 janv. 2026 16:22,Vente,TAAAZHFZTFS,Espèces,2,JUS DE FRUITS ORANGE 🍊,EUR,6.00,0.60,5.40,4.90,0.50,10 %,admin@pingpang.paris
+27 janv. 2026 16:39,Vente,TAAAZHF7MDG,Espèces,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 16:39,Vente,TAAAZHF7MDG,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+27 janv. 2026 18:00,Vente,TAAAZHGZQBG,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+27 janv. 2026 18:51,Vente,TAAAZHHHPU2,Mastercard - Débit,2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+27 janv. 2026 19:05,Vente,TAAAZHHNEML,Mastercard - Débit,1,Pp split,EUR,22.50,0.00,22.50,18.75,3.75,20 %,admin@pingpang.paris
+27 janv. 2026 19:05,Vente,TAAAZHHNKDK,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+27 janv. 2026 19:05,Vente,TAAAZHHNKDK,Visa - Débit,1,Pp split,EUR,22.50,0.00,22.50,18.75,3.75,20 %,admin@pingpang.paris
+27 janv. 2026 19:20,Vente,TAAAZHHR99N,Visa - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 19:20,Vente,TAAAZHHR99N,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 19:20,Vente,TAAAZHHR99N,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+27 janv. 2026 19:20,Vente,TAAAZHHR99N,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+27 janv. 2026 19:32,Vente,TAAAZHHU2HD,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 19:33,Vente,TAAAZHHVE44,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.25,2.25,2.04,0.21,10 %,admin@pingpang.paris
+27 janv. 2026 19:35,Vente,TAAAZHHVUN4,Mastercard - Débit,1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 19:35,Vente,TAAAZHHVUN4,Mastercard - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+27 janv. 2026 20:03,Vente,TAAAZHH6EGD,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+27 janv. 2026 20:06,Vente,TAAAZHH6373,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+27 janv. 2026 20:22,Vente,TAAAZHKBLNZ,Maestro - Débit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+27 janv. 2026 20:32,Vente,TAAAZHKDQXR,Visa - Crédit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 20:32,Vente,TAAAZHKDQXR,Visa - Crédit,1,JUS DE FRUITS POMME 🍎,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+27 janv. 2026 20:32,Vente,TAAAZHKDQXR,Visa - Crédit,1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+27 janv. 2026 20:32,Vente,TAAAZHKDQXR,Visa - Crédit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+27 janv. 2026 20:34,Vente,TAAAZHKD6UB,Espèces,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+27 janv. 2026 20:34,Vente,TAAAZHKD6UB,Espèces,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+27 janv. 2026 22:06,Vente,TAAAZHKYYM2,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+28 janv. 2026 12:01,Vente,TAAAZHNRMRY,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+28 janv. 2026 12:01,Vente,TAAAZHNRMRY,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+28 janv. 2026 12:45,Vente,TAAAZHPCPK6,Mastercard - Crédit,1,Cookie MATCHA,EUR,4.00,0.40,3.60,3.28,0.32,10 %,admin@pingpang.paris
+28 janv. 2026 12:45,Vente,TAAAZHPCPK6,Mastercard - Crédit,1,Cookie cloud 🍪,EUR,6.00,0.60,5.40,4.50,0.90,20 %,admin@pingpang.paris
+28 janv. 2026 12:45,Vente,TAAAZHPCPK6,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+28 janv. 2026 13:28,Vente,TAAAZHPVMKY,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+28 janv. 2026 14:28,Vente,TAAAZHQMQAR,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+28 janv. 2026 14:35,Vente,TAAAZHQPQLX,Mastercard - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+28 janv. 2026 15:06,Vente,TAAAZHQZZZA,Espèces,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+28 janv. 2026 15:17,Vente,TAAAZHQ6ATU,Visa - Crédit,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+28 janv. 2026 15:17,Vente,TAAAZHQ6ATU,Visa - Crédit,1,Kombucha Archipel 🌈 Kombucha framboisier,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+28 janv. 2026 15:21,Vente,TAAAZHQ7MAE,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+28 janv. 2026 15:21,Vente,TAAAZHQ7MAE,Espèces,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+28 janv. 2026 16:43,Vente,TAAAZHR2QE9,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+28 janv. 2026 17:56,Vente,TAAAZHST2XX,Mastercard - Débit,1,Cookie CHOCOLAT,EUR,3.60,1.80,1.80,1.63,0.17,10 %,admin@pingpang.paris
+28 janv. 2026 18:10,Vente,TAAAZHSZE6X,Visa - Crédit,3,Club Mate Cola ⚫️ Standard,EUR,15.00,0.00,15.00,13.64,1.36,10 %,admin@pingpang.paris
+28 janv. 2026 18:10,Vente,TAAAZHSZE6X,Visa - Crédit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+28 janv. 2026 18:13,Vente,TAAAZHSZ9R3,Mastercard - Débit,2,Chocolat chaud,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+28 janv. 2026 18:13,Vente,TAAAZHSZ9R3,Mastercard - Débit,2,Ginger Beer Accent 🫚 Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+28 janv. 2026 18:13,Vente,TAAAZHSZ9R3,Mastercard - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+28 janv. 2026 18:13,Vente,TAAAZHSZ9R3,Mastercard - Débit,2,Limonade Accent ⚪️ Standard,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+28 janv. 2026 18:31,Vente,TAAAZHS9LCE,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+28 janv. 2026 19:07,Vente,TAAAZHTLSEU,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+28 janv. 2026 19:08,Vente,TAAAZHTL3KZ,Espèces,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+28 janv. 2026 19:51,Vente,TAAAZHTZHFT,Visa - Crédit,1,Justesse T-shirt Blanc · L,EUR,50.00,40.00,10.00,8.34,1.66,20 %,admin@pingpang.paris
+28 janv. 2026 19:51,Vente,TAAAZHTZHFT,Visa - Crédit,4,Replay 30min,EUR,60.00,0.00,60.00,50.00,10.00,20 %,admin@pingpang.paris
+28 janv. 2026 20:24,Vente,TAAAZHUBR3M,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+28 janv. 2026 20:25,Vente,TAAAZHUBUMS,Mastercard - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+28 janv. 2026 21:14,Vente,TAAAZHUPEMV,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,7.50,0.00,,admin@pingpang.paris
+29 janv. 2026 10:09,Vente,TAAAZHXUYLR,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+29 janv. 2026 10:09,Vente,TAAAZHXUYLR,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+29 janv. 2026 10:58,Vente,TAAAZHYB4UP,Visa - Débit,1,Americano  Standard,EUR,3.50,0.52,2.98,2.71,0.27,10 %,admin@pingpang.paris
+29 janv. 2026 11:10,Vente,TAAAZHYFXHV,Visa - Crédit,1,Cappuccino Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+29 janv. 2026 11:11,Vente,TAAAZHYF2Q2,Mastercard - Débit,1,Double Espresso ☕️ Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+29 janv. 2026 12:01,Vente,TAAAZHY2FZY,Visa Electron - Débit,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+29 janv. 2026 12:09,Vente,TAAAZHY6K3X,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+29 janv. 2026 12:45,Vente,TAAAZHZNHK6,Visa - Débit,1,ChariTea  Red,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+29 janv. 2026 12:57,Vente,TAAAZHZS36E,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+29 janv. 2026 13:02,Vente,TAAAZHZUVPD,Visa - Débit,1,Café allongé Standard,EUR,3.00,0.45,2.55,2.32,0.23,10 %,admin@pingpang.paris
+29 janv. 2026 13:02,Vente,TAAAZHZUVPD,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.75,4.25,3.55,0.70,20 %,admin@pingpang.paris
+29 janv. 2026 13:33,Vente,TAAAZH2BUTM,Visa Electron - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+29 janv. 2026 13:33,Vente,TAAAZH2BUTM,Visa Electron - Débit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+29 janv. 2026 13:33,Vente,TAAAZH2BUTM,Visa Electron - Débit,1,Perrier,EUR,4.60,0.00,4.60,4.18,0.42,10 %,admin@pingpang.paris
+29 janv. 2026 13:33,Vente,TAAAZH2BUTM,Visa Electron - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+29 janv. 2026 13:33,Vente,TAAAZH2BUTM,Visa Electron - Débit,1,Évian Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+29 janv. 2026 13:45,Vente,TAAAZH2GCZG,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.75,4.25,3.87,0.38,10 %,admin@pingpang.paris
+29 janv. 2026 13:45,Vente,TAAAZH2GCZG,Visa - Débit,1,Lait Végétal  Standard,EUR,0.50,0.07,0.43,0.39,0.04,10 %,admin@pingpang.paris
+29 janv. 2026 14:23,Vente,TAAAZH2XGHA,Espèces,1,Thé 🍵 Standard,EUR,4.50,0.00,4.50,4.09,0.41,10 %,admin@pingpang.paris
+29 janv. 2026 15:58,Vente,TAAAZH3YPCV,Visa - Débit,1,Matcha latte,EUR,5.00,0.50,4.50,4.10,0.40,10 %,admin@pingpang.paris
+29 janv. 2026 16:13,Vente,TAAAZH36D6R,Visa - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+29 janv. 2026 16:33,Vente,TAAAZH4DSG4,Espèces,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+29 janv. 2026 16:33,Vente,TAAAZH4DSG4,Espèces,1,TRISTAN,EUR,80.00,40.00,40.00,40.00,0.00,0 %,admin@pingpang.paris
+29 janv. 2026 16:38,Vente,TAAAZH4FENB,Visa - Débit,1,JUS DE FRUITS MULTI FRUIT 🍍🍒🍑,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+29 janv. 2026 16:42,Vente,TAAAZH4GNUX,Espèces,3,Espresso ☕️ Standard,EUR,7.50,0.75,6.75,6.14,0.61,10 %,admin@pingpang.paris
+29 janv. 2026 17:07,Vente,TAAAZH4RMNS,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+29 janv. 2026 17:07,Vente,TAAAZH4RMNS,Visa - Débit,1,LBF,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+29 janv. 2026 17:40,Vente,TAAAZH46E4G,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+29 janv. 2026 17:56,Vente,TAAAZH6CE6Q,Mastercard - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+29 janv. 2026 17:56,Vente,TAAAZH6CE6Q,Mastercard - Débit,1,The vert pêche - Meneau Standard,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+29 janv. 2026 17:57,Vente,TAAAZH6CSF6,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+29 janv. 2026 17:57,Vente,TAAAZH6CSF6,Visa - Débit,1,The vert pêche - Meneau Standard,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+29 janv. 2026 18:00,Vente,TAAAZH6DS2N,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+29 janv. 2026 18:22,Vente,TAAAZH6MP43,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,1.90,1.90,1.72,0.18,10 %,admin@pingpang.paris
+29 janv. 2026 18:22,Vente,TAAAZH6MP43,Visa - Débit,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+29 janv. 2026 18:41,Vente,"TAAAZH6TMSA, TAAAZH6TRVR","Visa - Débit, Visa - Débit",2,Corona 50cl Corona,EUR,16.00,0.00,16.00,13.33,2.67,20 %,admin@pingpang.paris
+29 janv. 2026 18:41,Vente,"TAAAZH6TMSA, TAAAZH6TRVR","Visa - Débit, Visa - Débit",1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+29 janv. 2026 18:56,Vente,TAAAZH6Y7UZ,Carte non assignée,1,Acompte Candido Andreia,EUR,100.00,0.00,100.00,83.33,16.67,20 %,Club
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,Cidre Fils de pomme,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,Lait Végétal  Standard,EUR,0.50,0.00,0.50,0.45,0.05,10 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",2,Matcha latte,EUR,10.00,0.00,10.00,9.09,0.91,10 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+29 janv. 2026 19:38,Vente,"TAAAZH7FGLV, TAAAZH7FQ69, TAAAZH7FSQ6","Mastercard - Crédit, Visa - Débit, Visa - Débit",1,"Raquette PPP ACC Noir, TU",EUR,50.00,25.00,25.00,20.84,4.16,20 %,admin@pingpang.paris
+29 janv. 2026 19:53,Vente,"TAAAZH7LTBG, TAAAZH7LUH4","Espèces, Mastercard - Débit",1,Play Peak Play One (Peak),EUR,30.00,0.00,30.00,25.00,5.00,20 %,admin@pingpang.paris
+29 janv. 2026 20:29,Vente,TAAAZH7XN67,Visa - Crédit,2,Corona 25cl Corona,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+29 janv. 2026 21:35,Vente,TAAAZH9GSCR,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,0.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+30 janv. 2026 10:09,Vente,TAAAZKBS3E9,Espèces,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+30 janv. 2026 10:09,Vente,TAAAZKBS3E9,Espèces,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+30 janv. 2026 10:25,Vente,TAAAZKBX42H,Espèces,1,Play Off-Peak Play One (Off-Peak),EUR,20.00,0.00,20.00,16.67,3.33,20 %,admin@pingpang.paris
+30 janv. 2026 10:25,Vente,TAAAZKBX42H,Espèces,1,TOM Standard,EUR,45.00,0.00,45.00,37.50,7.50,20 %,admin@pingpang.paris
+30 janv. 2026 11:08,Vente,TAAAZKCFH3S,Visa - Débit,2,Espresso ☕️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+30 janv. 2026 11:08,Vente,TAAAZKCFH3S,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+30 janv. 2026 11:52,Vente,TAAAZKCZCV9,Mastercard - Crédit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.38,3.42,3.10,0.32,10 %,admin@pingpang.paris
+30 janv. 2026 11:52,Vente,TAAAZKCZCV9,Mastercard - Crédit,1,Double Espresso ☕️ Standard,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+30 janv. 2026 12:10,Vente,TAAAZKDATU7,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+30 janv. 2026 12:10,Vente,TAAAZKDATU7,Espèces,1,Cookie cloud 🍪,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+30 janv. 2026 12:31,Vente,TAAAZKDLSSA,Mastercard - Crédit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+30 janv. 2026 13:21,Vente,TAAAZKECXPP,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+30 janv. 2026 15:33,Vente,TAAAZKF9QT4,Visa - Crédit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+30 janv. 2026 15:36,Vente,TAAAZKGAXPG,Visa - Débit,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+30 janv. 2026 16:05,Vente,TAAAZKGM9BS,Espèces,1,Play Off-Peak Play Half (Off-Peak),EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+30 janv. 2026 17:09,Vente,TAAAZKHHTFA,Visa - Débit,2,Corona 50cl Corona,EUR,16.00,1.60,14.40,12.00,2.40,20 %,admin@pingpang.paris
+30 janv. 2026 17:09,Vente,TAAAZKHHTFA,Visa - Débit,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.30,2.70,2.46,0.24,10 %,admin@pingpang.paris
+30 janv. 2026 18:28,Vente,TAAAZKKLAVS,Visa - Débit,1,Happy Hour,EUR,10.00,5.00,5.00,4.16,0.84,20 %,admin@pingpang.paris
+30 janv. 2026 18:28,Vente,TAAAZKKLAVS,Visa - Débit,1,Play Peak Play One (Peak),EUR,30.00,15.00,15.00,12.50,2.50,20 %,admin@pingpang.paris
+30 janv. 2026 18:34,Vente,TAAAZKKNQGX,Espèces,1,Happy Hour,EUR,10.00,0.00,10.00,8.33,1.67,20 %,admin@pingpang.paris
+30 janv. 2026 18:50,Vente,TAAAZKKUBA7,Espèces,1,Cookie MATCHA,EUR,4.00,2.00,2.00,1.82,0.18,10 %,admin@pingpang.paris
+30 janv. 2026 18:51,Vente,TAAAZKKUNRM,Mastercard - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+30 janv. 2026 18:53,Vente,TAAAZKKVMVU,Visa - Crédit,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+30 janv. 2026 19:08,Vente,TAAAZKK37AF,Visa - Débit,1,ChariTea  Red,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+30 janv. 2026 19:14,Vente,TAAAZKK7DXS,Mastercard - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+30 janv. 2026 19:15,Vente,TAAAZKK7QD4,Visa - Débit,1,Hojicha Latte,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+30 janv. 2026 19:24,Vente,TAAAZKLBVRH,Mastercard - Débit,1,Iced Matcha latte,EUR,6.00,0.93,5.07,4.22,0.85,20 %,admin@pingpang.paris
+30 janv. 2026 19:24,Vente,TAAAZKLBVRH,Mastercard - Débit,1,Lait végétal,EUR,0.50,0.07,0.43,0.36,0.07,20 %,admin@pingpang.paris
+30 janv. 2026 19:29,Vente,TAAAZKLDNRS,Visa - Débit,1,ChariTea  Red,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+30 janv. 2026 19:35,Vente,TAAAZKLFX4A,Visa - Débit,1,Kombucha Archipel 🌈 Kombucha Cassissier,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+30 janv. 2026 19:38,Vente,TAAAZKLG9GT,Visa - Débit,1,Cidre Fils de pomme,EUR,5.00,1.00,4.00,3.34,0.66,20 %,admin@pingpang.paris
+30 janv. 2026 19:43,Vente,TAAAZKLKQU6,Espèces,1,Supplément pinte,EUR,3.00,0.00,3.00,2.50,0.50,20 %,admin@pingpang.paris
+30 janv. 2026 20:09,Vente,TAAAZKLVEDV,Mastercard - Débit,1,Corona 50cl Corona,EUR,8.00,2.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+30 janv. 2026 20:14,Vente,TAAAZKLXZ72,Visa - Crédit,2,Corona 50cl Corona,EUR,16.00,2.00,14.00,11.66,2.34,20 %,admin@pingpang.paris
+30 janv. 2026 20:15,Vente,TAAAZKLYEPN,Visa - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,1.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+30 janv. 2026 20:27,Vente,TAAAZKL4NP6,Espèces,1,Cidre Fils de pomme,EUR,5.00,1.00,4.00,3.34,0.66,20 %,admin@pingpang.paris
+30 janv. 2026 22:11,Vente,TAAAZKNA39L,Visa - Débit,3,Corona 50cl Corona,EUR,24.00,0.00,24.00,20.00,4.00,20 %,admin@pingpang.paris
+31 janv. 2026 13:19,Vente,TAAAZKUALP6,Espèces,1,Café allongé Standard,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+31 janv. 2026 13:19,Vente,TAAAZKUALP6,Espèces,1,JUS DE FRUITS ORANGE 🍊,EUR,3.00,0.00,3.00,2.73,0.27,10 %,admin@pingpang.paris
+31 janv. 2026 14:50,Vente,TAAAZKVSSSV,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+31 janv. 2026 14:50,Vente,TAAAZKVSSSV,Visa - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
+31 janv. 2026 14:57,Vente,TAAAZKVXDDN,Visa - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+31 janv. 2026 14:57,Vente,TAAAZKVXDDN,Visa - Débit,1,Café Latte Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 14:57,Vente,TAAAZKVXDDN,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+31 janv. 2026 14:57,Vente,TAAAZKVXDDN,Visa - Débit,1,Matcha latte,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 16:06,Vente,TAAAZKX6GD2,Mastercard - Débit,2,Café allongé Standard,EUR,6.00,0.00,6.00,5.45,0.55,10 %,admin@pingpang.paris
+31 janv. 2026 16:06,Vente,TAAAZKX6GD2,Mastercard - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+31 janv. 2026 16:12,Vente,TAAAZKYAHG7,Espèces,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+31 janv. 2026 16:20,Vente,TAAAZKYEAGZ,Visa - Crédit,1,RAP SARAH,EUR,73.50,0.00,73.50,61.25,12.25,20 %,admin@pingpang.paris
+31 janv. 2026 16:55,Vente,TAAAZKYYGFA,Mastercard - Débit,1,Café Latte Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+31 janv. 2026 16:55,Vente,TAAAZKYYGFA,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+31 janv. 2026 17:19,Vente,TAAAZKZCTH7,Visa - Débit,1,ChariTea  Black,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 17:19,Vente,TAAAZKZCTH7,Visa - Débit,1,Club Mate Cola ⚫️ Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 17:22,Vente,TAAAZKZED9R,Mastercard - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 17:22,Vente,TAAAZKZED9R,Mastercard - Débit,1,Espresso ☕️ Standard,EUR,2.50,0.00,2.50,2.27,0.23,10 %,admin@pingpang.paris
+31 janv. 2026 17:29,Vente,TAAAZKZG92Z,Mastercard - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 18:34,Vente,TAAAZK2EBH6,Visa - Débit,1,Cappuccino Standard,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 18:34,Vente,TAAAZK2EBH6,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+31 janv. 2026 18:39,Vente,TAAAZK2F3VK,Visa - Débit,1,ANDRÉA,EUR,70.00,35.00,35.00,35.00,0.00,0 %,admin@pingpang.paris
+31 janv. 2026 18:39,Vente,TAAAZK2F3VK,Visa - Débit,1,Play Peak Play Half (Peak),EUR,15.00,7.50,7.50,6.25,1.25,20 %,admin@pingpang.paris
+31 janv. 2026 18:57,Vente,TAAAZK2P47K,Mastercard - Débit,1,Ginger Beer Accent 🫚 Standard,EUR,5.00,2.50,2.50,2.28,0.22,10 %,admin@pingpang.paris
+31 janv. 2026 19:09,Vente,TAAAZK2UCDR,Visa - Débit,1,Pinte complément,EUR,6.00,0.00,6.00,5.00,1.00,20 %,admin@pingpang.paris
+31 janv. 2026 20:03,Vente,TAAAZK3L9H9,Espèces,1,Regina Standard,EUR,14.90,0.00,14.90,13.55,1.35,10 %,admin@pingpang.paris
+31 janv. 2026 21:07,Vente,TAAAZK4EZUY,Visa - Débit,1,Corona 50cl Corona,EUR,8.00,0.00,8.00,6.67,1.33,20 %,admin@pingpang.paris
+31 janv. 2026 21:10,Vente,TAAAZK4F3S4,Visa - Débit,1,Corona 25cl Corona,EUR,5.00,0.00,5.00,4.17,0.83,20 %,admin@pingpang.paris
+31 janv. 2026 21:30,Vente,TAAAZK4PX2S,Visa - Débit,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+31 janv. 2026 21:32,Vente,TAAAZK4QH6K,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+31 janv. 2026 21:36,Vente,TAAAZK4RTGQ,Visa - Débit,1,Banane bread,EUR,4.90,2.45,2.45,2.04,0.41,20 %,admin@pingpang.paris
+31 janv. 2026 21:38,Vente,TAAAZK4SKYE,Visa - Débit,1,ChariTea  Red,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 21:38,Vente,TAAAZK4SKYE,Visa - Débit,1,Cookie CHOCOLAT NOIX,EUR,3.80,0.00,3.80,3.45,0.35,10 %,admin@pingpang.paris
+31 janv. 2026 21:43,Vente,TAAAZK4UCRG,Visa - Débit,1,ChariTea  Black,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 21:43,Vente,TAAAZK4UCRG,Visa - Débit,1,Chocolat chaud,EUR,5.00,0.00,5.00,4.55,0.45,10 %,admin@pingpang.paris
+31 janv. 2026 22:27,Vente,TAAAZK6CMS2,Espèces,1,Banane bread,EUR,4.90,0.00,4.90,4.08,0.82,20 %,admin@pingpang.paris
+31 janv. 2026 23:13,Vente,TAAAZK6SS3G,Visa - Débit,1,Cookie MATCHA,EUR,4.00,0.00,4.00,3.64,0.36,10 %,admin@pingpang.paris
